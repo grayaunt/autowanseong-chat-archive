@@ -1,0 +1,10 @@
+*
+!index.html
+!style.css
+!app.js
+!data/
+data/*
+!data/manifest.json
+!data/videos.json
+!.nojekyll
+!.gitignore
