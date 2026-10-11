@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-11T00:03:12.251669+00:00",
+  "updated_at": "2026-10-11T09:06:12.678956+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,65 @@
     "23:00"
   ],
   "entries": [
+    {
+      "title": "숏폼 상품 광고 제작과 AI 활용 커뮤니티 홍보",
+      "summary": "인스타그램·틱톡용 상품 광고 제작과 AI 활용 커뮤니티의 홍보 방법을 묻는 대화가 있었다. 답변에서는 제품 사용 효과를 빠르게 보여주는 영상 구성과 기존 채널을 활용한 홍보를 제안했다. 실제 제작 결과나 홍보 성과는 대화에 나오지 않았다.",
+      "tags": [
+        "숏폼",
+        "상품 광고",
+        "영상 제작",
+        "커뮤니티 홍보"
+      ],
+      "questions": [],
+      "topics": [
+        {
+          "title": "상품의 이점을 보여주는 숏폼 구성",
+          "body": "답변에서는 첫 3초에 제품 사용 장면이나 결과를 보여주고, 고객에게 도움이 되는 장점 하나에 집중하도록 제안했다. 직접 입증할 수 있는 효과를 담고, 마지막에는 다음 행동을 하나만 안내하는 구성을 권했다."
+        },
+        {
+          "title": "편집과 반응 비교",
+          "body": "세로 9:16 화면을 사용하고 자막이 앱 버튼에 가리지 않도록 배치하는 방법이 제시됐다. 반복되거나 멈칫하는 부분을 줄이고 목소리가 배경음보다 또렷하게 들리도록 조정하며, 첫 장면이 다른 버전의 시청 유지와 클릭 반응을 비교해 보라는 제안도 있었다."
+        },
+        {
+          "title": "기존 채널을 활용한 커뮤니티 홍보",
+          "body": "홍보처 질문에 대해 유튜브·스레드·인스타그램과 관련 커뮤니티의 홍보 허용 게시판이 제안됐다. AI 활용이나 업무자동화 사례를 짧게 보여주고 참여할 이유를 앞세우는 방식이다. 직접 초대 대신 공유용 안내 문구를 제공할 수 있다는 답변도 있었다."
+        }
+      ],
+      "links": [
+        {
+          "label": "AI 영상 제작 참고 후보 — 상품 광고 관련성은 미확인",
+          "url": "https://www.youtube.com/watch?v=7Sk2FPcwk2A"
+        },
+        {
+          "label": "대화에서 공유된 TikTok 광고 제작 가이드",
+          "url": "https://ads.tiktok.com/resources/help/article/creative-best-practices?lang=en"
+        },
+        {
+          "label": "대화에서 공유된 YouTube 프로필 설정 도움말",
+          "url": "https://support.google.com/youtube/answer/2657964?hl=ko"
+        }
+      ],
+      "id": "digest-20e2026eec66ef2c6901",
+      "status": "published",
+      "kind": "digest",
+      "date": "2026-10-11",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-11T13:00:00+09:00",
+        "end": "2026-10-11T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-11T09:05:44.308183+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "message_count": 6,
+        "excluded_count": 8,
+        "source_sha256": "886d18a1aba550cb4522e57cad7b19793187efc09b43ae6263508e0f9c716ff6",
+        "message_ids_sha256": "370e7a001b8cfb5baf2744ca13b1fd2704173ea823d490ff20eb0961bab38e1f",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "title": "Claude Code 구독 요금과 사용량 안내",
       "summary": "Claude Code의 개인 구독 요금제와 사용량에 관한 질문과 답변이 있었다. 아래는 대화에서 안내된 내용을 정리한 것으로, 현재 가격과 이용 조건을 별도로 검증한 정보는 아니다.",
