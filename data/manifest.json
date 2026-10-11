@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-10T14:51:06.840223+00:00",
+  "updated_at": "2026-10-11T00:03:12.251669+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,56 @@
     "23:00"
   ],
   "entries": [
+    {
+      "title": "Claude Code 구독 요금과 사용량 안내",
+      "summary": "Claude Code의 개인 구독 요금제와 사용량에 관한 질문과 답변이 있었다. 아래는 대화에서 안내된 내용을 정리한 것으로, 현재 가격과 이용 조건을 별도로 검증한 정보는 아니다.",
+      "tags": [
+        "Claude Code",
+        "구독 요금",
+        "사용량 한도"
+      ],
+      "questions": [],
+      "topics": [
+        {
+          "title": "개인 구독 비교",
+          "body": "Claude Code를 이용할 수 있는 개인 구독에 관한 질문에 Pro와 Max를 비교하는 답변이 나왔다. 월간·연간 결제와 요금제별 사용량 차이를 안내했으며, 세금과 환율에 따라 결제액이 달라질 수 있다고 설명했다. 구체적인 최신 가격은 함께 공유된 공식 요금 안내에서 확인할 수 있다."
+        },
+        {
+          "title": "구독료와 함께 살펴볼 사용량",
+          "body": "답변에서는 상위 요금제도 무제한은 아니라는 점과 Claude 채팅·Claude Code의 사용량 한도를 함께 살펴보도록 안내했다. 이 내용은 당시 대화의 설명이며, 실제 적용 조건은 공식 구독 안내를 확인해야 한다."
+        }
+      ],
+      "links": [
+        {
+          "label": "대화에서 공유된 Claude 공식 요금 안내",
+          "url": "https://claude.com/pricing"
+        },
+        {
+          "label": "대화에서 공유된 Claude Code 구독·사용량 안내",
+          "url": "https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan"
+        }
+      ],
+      "id": "digest-85f12c2e8600f3beafac",
+      "status": "published",
+      "kind": "digest",
+      "date": "2026-10-11",
+      "slot": "새벽 정리 · 23:00–09:00",
+      "period": {
+        "start": "2026-10-10T23:00:00+09:00",
+        "end": "2026-10-11T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-11T00:01:46.047284+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "message_count": 5,
+        "excluded_count": 1,
+        "source_sha256": "f087a2acd3ad81b1bcc7cb24c422545a521fd271520dd88a20e52fc4724ccf19",
+        "message_ids_sha256": "5cfb47762600793a2cabe10cc5f96cd95f21f93c30313a01441b1d011b79c40a",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "title": "업무자동화 도구 선택과 AI 콘텐츠 제작 팁",
       "summary": "업무자동화 도구 선택, Hermes Agent 활용, 영상·TTS 제작과 반도체 해커톤 준비에 관한 문답을 정리했다. 늦은 시간에는 Codex의 대화 초기화와 사용량 한도 초기화가 다르다는 이야기가 나왔으며, 비정기 한도 초기화의 시행 여부는 확인되지 않았다. 아래 내용은 대화에서 제시된 안내와 제안이며 독립적으로 검증한 제품 정보는 아니다.",
