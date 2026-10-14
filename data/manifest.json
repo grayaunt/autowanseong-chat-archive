@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-14T00:00:42.295377+00:00",
+  "updated_at": "2026-10-14T05:00:38.396786+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,44 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-1ccd2d3b352108c982ac",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 활용 질문 안내와 환영 인사",
+      "summary": "이 시간대에는 인사와 환영, AI 활용·영상 제작·업무자동화 질문 안내가 중심이었다. 공지사항과 대화 아카이브 이용 안내도 있었으나, 구체적인 활용 질문이나 실무 팁을 다룬 대화는 부족했다. 이전 시간대의 대화 요약과 전날 통계는 이번 시간대의 논의로 포함하지 않았다.",
+      "tags": [
+        "AI 활용",
+        "업무자동화",
+        "이용 안내"
+      ],
+      "topics": [
+        {
+          "title": "AI 활용과 반복 업무 질문 안내",
+          "body": "봇 안내에서는 AI 활용, 영상 제작, 업무자동화에 관한 질문을 받으며, 줄이고 싶은 반복 업무나 만들고 싶은 콘텐츠를 설명해 달라고 제안했다. 구체적인 사례나 실행 방법을 다룬 후속 대화는 없었다."
+        },
+        {
+          "title": "공지사항과 대화 기록 안내",
+          "body": "새 참여자를 위한 공지사항 확인과 대화 아카이브 이용 안내가 있었다. 입력에 공개 URL이 없어 링크는 수록하지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-14",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-14T09:00:00+09:00",
+        "end": "2026-10-14T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-14T05:00:32.372243+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "64eae61c070f1e2a6a498beb94ff0cde4082ea53423655650f4a0d95423cc2b9",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-69a5eaf09a3a3f5fcd92",
       "status": "published",
