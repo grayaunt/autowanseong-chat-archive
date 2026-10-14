@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-14T05:00:38.396786+00:00",
+  "updated_at": "2026-10-14T09:00:24.878481+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-06dc68e36cde3d67d011",
+      "status": "published",
+      "kind": "digest",
+      "title": "10월 14일 14~18시 대화 기록",
+      "summary": "입력에는 이전 시간대의 대화를 정리한 봇 요약만 있어, 이번 시간대의 구체적인 활용 논의를 확인하기 어렵다. 이전 요약에 담긴 내용은 이번 시간대의 주제로 포함하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-14",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-14T14:00:00+09:00",
+        "end": "2026-10-14T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-14T09:00:17.360589+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "dae9f78bb4505e39d426e7b156dec5205d441e8e8aa69369c140d5b690aa8121",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-1ccd2d3b352108c982ac",
       "status": "published",
