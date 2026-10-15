@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-14T09:00:24.878481+00:00",
+  "updated_at": "2026-10-15T00:00:15.960125+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-a6b80904da0c29ae9ada",
+      "status": "published",
+      "kind": "digest",
+      "title": "공개 활용 주제를 확인하기 어려운 시간대",
+      "summary": "입력에는 이전 시간대를 다룬 봇 요약만 있어, 주어진 시간 범위의 실제 활용 논의나 질문·답변을 확인하기 어렵다. 이전 요약의 내용은 이번 시간대의 주제로 포함하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-15",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-14T18:00:00+09:00",
+        "end": "2026-10-15T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-15T00:00:11.546774+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "a65a07bf3d46cb73dc40b6c85554d2bdbbb49a9e31c246a0ef5e70afa1feb534",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-06dc68e36cde3d67d011",
       "status": "published",
