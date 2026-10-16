@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-15T09:00:23.100544+00:00",
+  "updated_at": "2026-10-16T00:00:33.873099+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,45 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-d713ef9c82bcd126bb74",
+      "status": "published",
+      "kind": "digest",
+      "title": "웹앱 배포 서비스와 오픈소스 편집 도구 소개",
+      "summary": "웹사이트와 웹앱을 공유하는 배포 서비스의 기능에 관한 질문과 답변이 오갔다. 이미지·영상·문서 편집 등을 위한 오픈소스 도구 목록도 공유됐으나, 실제 사용 결과나 기능 검증 내용은 제시되지 않았다.",
+      "tags": [
+        "웹앱 배포",
+        "Vercel",
+        "오픈소스",
+        "편집 도구"
+      ],
+      "topics": [
+        {
+          "title": "Vercel을 활용한 웹앱 공유",
+          "body": "Vercel에 대한 질문에 웹사이트나 웹앱을 인터넷에 배포하는 서비스라는 답변이 제공됐다. GitHub 연동 자동 배포, 변경 사항 미리보기, 도메인 연결, HTTPS, 서버 API 기능이 소개됐다. 계산기 같은 웹앱을 배포해 설치 없이 링크로 공유하는 활용 예시도 제시됐다."
+        },
+        {
+          "title": "편집·분석용 오픈소스 도구 목록",
+          "body": "소프트웨어 역공학과 이미지·벡터·영상·사진·모션 그래픽·출판·PDF 편집을 위한 도구 8종이 소개됐다. 기존 상용 프로그램의 대체 도구라는 설명이 붙었지만, 대화에는 호환성이나 완성도, 실제 사용 결과를 확인할 근거가 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-16",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-15T18:00:00+09:00",
+        "end": "2026-10-16T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-16T00:00:28.194879+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "2fc0a65daea303a66e8b45d9d6ab998759a6f6feeb4d24c27786e55f1fecd945",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-8eb2e40c38e2f367cd6b",
       "status": "published",
