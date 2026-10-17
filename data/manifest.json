@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-16T09:00:29.575470+00:00",
+  "updated_at": "2026-10-17T00:00:20.299084+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-5841ac81cfe94d436e3a",
+      "status": "published",
+      "kind": "digest",
+      "title": "해당 시간대에 요약할 실제 대화 부족",
+      "summary": "입력에는 이전 시간대의 대화를 정리한 봇 요약만 있어, 요청한 시간 범위의 실제 대화나 후속 답변을 확인할 수 없다. 이를 새로운 대화로 재요약하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-17",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-16T18:00:00+09:00",
+        "end": "2026-10-17T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-17T00:00:15.186730+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "1913b74e54d30ecb007d689cd6560a542f4a0a0ac5d141f1d40f5c0cf54e39b0",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-8e99feac5945421d0dd9",
       "status": "published",
