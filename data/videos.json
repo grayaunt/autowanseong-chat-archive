@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "hEBMCA8pS60",
+      "title": "클로드 코드 초보 가이드 | 영상 도구 10개 설치하면 자막도 내 목소리도 돼요",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=hEBMCA8pS60",
+      "scope": "제목·공개 목록 확인",
+      "tags": "클로드 코드 초보 가이드 | 영상 도구 10개 설치하면 자막도 내 목소리도 돼요"
+    },
+    {
       "id": "VjUk-GDmcLs",
       "title": "클로드 코드 초보 가이드 | 이 10가지만 준비해 두면 본격적으로 쓸 수 있어요",
       "kind": "영상",
