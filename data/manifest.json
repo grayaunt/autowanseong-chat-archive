@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-19T09:00:37.391527+00:00",
+  "updated_at": "2026-10-20T00:00:21.869516+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,48 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-d763e28c2a90e265a97d",
+      "status": "published",
+      "kind": "digest",
+      "title": "클로드 코드 초보 가이드 영상 안내",
+      "summary": "클로드 코드 입문을 위한 사전 준비 10가지를 다룬 공개 영상이 안내됐다. 대화에는 구체적인 준비 항목이나 사용 결과에 대한 후속 논의가 없었다. 함께 전달된 영상 제작 도구 요약은 이전 시간대 내용이므로 이번 요약에서 제외했다.",
+      "tags": [
+        "클로드 코드",
+        "입문 가이드"
+      ],
+      "topics": [
+        {
+          "title": "클로드 코드 입문 영상",
+          "body": "클로드 코드 초보자를 위한 공개 유튜브 영상이 소개됐다. 입문 자료로 안내됐으며, 대화에서 내용에 대한 평가나 검증은 이뤄지지 않았다."
+        },
+        {
+          "title": "사용 전 준비 항목",
+          "body": "영상 제목은 본격적인 사용에 앞서 준비할 10가지를 다룬다고 안내한다. 구체적인 항목은 대화에 제시되지 않아 실행 팁으로 정리할 내용은 부족하다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "클로드 코드 초보 가이드 영상",
+          "url": "https://www.youtube.com/watch?v=VjUk-GDmcLs"
+        }
+      ],
+      "date": "2026-10-20",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-19T18:00:00+09:00",
+        "end": "2026-10-20T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-20T00:00:15.098121+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "06646656abdf9df3f16fee0437b7002d52d48dc7c55e46a32cb306f5d1f8c516",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-8cdea34daaa11196df31",
       "status": "published",
