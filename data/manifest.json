@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-20T00:00:21.869516+00:00",
+  "updated_at": "2026-10-20T05:00:28.070186+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-62cb502d28fef1f7dd79",
+      "status": "published",
+      "kind": "digest",
+      "title": "Claude Code v2.1.304 릴리스 안내",
+      "summary": "지정 시간대에는 Claude Code v2.1.304 공식 릴리스 안내가 게시됐다. 세부 변경 사항이나 사용 팁은 대화에 제시되지 않았으며, 관련 질문과 후속 사용 논의도 없었다.",
+      "tags": [
+        "Claude Code",
+        "릴리스 안내"
+      ],
+      "topics": [
+        {
+          "title": "릴리스 버전 안내",
+          "body": "공식 AI 소식으로 Claude Code v2.1.304 릴리스가 안내됐다. 대화에는 버전 정보만 제시됐다."
+        },
+        {
+          "title": "세부 변경 사항 확인 안내",
+          "body": "봇 안내는 세부 변경 사항을 원문에서 확인하도록 했다. 입력에 공개 URL이나 변경 내용이 없어 구체적인 활용 팁을 정리할 근거는 부족하다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-20",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-20T09:00:00+09:00",
+        "end": "2026-10-20T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-20T05:00:23.014087+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "3ff3fca9eca352f19f440f91dfcdf1c64b7005b288047f6d20847545b3ef523e",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-d763e28c2a90e265a97d",
       "status": "published",
