@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-21T05:00:24.327187+00:00",
+  "updated_at": "2026-10-21T09:00:25.740552+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,37 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-b8d8c7327a6d33700e16",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 입문자를 위한 회사 업무 연습 요청",
+      "summary": "AI를 처음 쓰는 사람이 회사 업무에 바로 적용할 연습 하나와 준비 자료, 3단계 실행 순서를 묻는 질문이 있었다. 입력에 후속 답변은 없어 구체적인 활용 팁은 정리하지 않았다. 봇이 소개한 이전 시간대 대화는 이번 범위의 새 활용 사례에서 제외했다.",
+      "tags": [
+        "AI 입문",
+        "업무 활용",
+        "연습 요청"
+      ],
+      "topics": [],
+      "questions": [
+        "AI 입문자가 회사 업무에 바로 써볼 연습 하나는 무엇이며, 준비할 자료와 3단계 실행 순서는 어떻게 되는가?"
+      ],
+      "links": [],
+      "date": "2026-10-21",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-21T14:00:00+09:00",
+        "end": "2026-10-21T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-21T09:00:17.287453+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "4fc9e60e99d6c3ee0fb7c95319fdcb429a18879fc8baa64d6ea5634bd7435538",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-e57a2855fb6a5403a081",
       "status": "published",
