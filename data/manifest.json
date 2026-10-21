@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-20T09:00:39.928128+00:00",
+  "updated_at": "2026-10-21T00:00:26.938670+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,50 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-92148326738f1425a529",
+      "status": "published",
+      "kind": "digest",
+      "title": "클로드 코드 입문 영상 안내와 학습 순서 요약 공유",
+      "summary": "클로드 코드 초보자를 위한 영상 도구 설치 가이드가 안내됐다. 앞선 시간대의 홈페이지 제작·업무자동화 학습 순서를 정리한 봇 요약도 공유됐다. 이번 입력에는 새 질문이나 실습 결과를 확인하는 대화는 없다.",
+      "tags": [
+        "클로드 코드",
+        "입문 자료",
+        "홈페이지 제작",
+        "업무자동화"
+      ],
+      "topics": [
+        {
+          "title": "클로드 코드 입문 영상 안내",
+          "body": "영상 도구 10개 설치와 자막·목소리 활용을 다룬다는 제목의 초보 가이드 영상이 공유됐다. 입력에는 영상 내용에 대한 구체적인 설명이나 사용 후기는 없다."
+        },
+        {
+          "title": "앞선 학습 순서 안내 요약",
+          "body": "이전 시간대 대화를 정리한 봇 요약에는 한 페이지 홈페이지에서 작은 업무자동화를 거쳐 웹앱으로 확장하자는 제안이 담겼다. 문의 입력·시트 저장·알림을 연결하고 기능을 늘리는 예시가 소개됐으며, 이번 시간대의 새로운 질의응답은 아니다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "클로드 코드 초보 가이드",
+          "url": "https://www.youtube.com/watch?v=hEBMCA8pS60"
+        }
+      ],
+      "date": "2026-10-21",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-20T18:00:00+09:00",
+        "end": "2026-10-21T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-21T00:00:21.092721+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "edfb3c9b7f062ebfa9b60f3d133a151659506f76fa07bc6d0e4e1c2a43bb6b9b",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-e6a2c935693a4779df13",
       "status": "published",
