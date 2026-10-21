@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "XEGOjeZKGFE",
+      "title": "메모리 정리를 140번 해도 느렸는데 원인을 찾으니 이제 안 느려져요",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=XEGOjeZKGFE",
+      "scope": "제목·공개 목록 확인",
+      "tags": "메모리 정리를 140번 해도 느렸는데 원인을 찾으니 이제 안 느려져요"
+    },
+    {
       "id": "hEBMCA8pS60",
       "title": "클로드 코드 초보 가이드 | 영상 도구 10개 설치하면 자막도 내 목소리도 돼요",
       "kind": "영상",
