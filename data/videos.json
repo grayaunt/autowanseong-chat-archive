@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "9ov8eDlTZYs",
+      "title": "어사이드 리모트 컨트롤로 데스크톱에서 시켰더니 노트북이 블로그를 올렸어요(어사이드에 어사이드 자동화)",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=9ov8eDlTZYs",
+      "scope": "제목·공개 목록 확인",
+      "tags": "어사이드 리모트 컨트롤로 데스크톱에서 시켰더니 노트북이 블로그를 올렸어요(어사이드에 어사이드 자동화)"
+    },
+    {
       "id": "XEGOjeZKGFE",
       "title": "메모리 정리를 140번 해도 느렸는데 원인을 찾으니 이제 안 느려져요",
       "kind": "영상",
