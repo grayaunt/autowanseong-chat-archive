@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-22T00:00:41.497868+00:00",
+  "updated_at": "2026-10-22T05:00:38.051967+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-66f44533980c1813ecbd",
+      "status": "published",
+      "kind": "digest",
+      "title": "Threads 글 게시 자동화의 시작 방법",
+      "summary": "Threads 자동화 방법으로 공식 API와 브라우저 자동화가 안내됐다. 간단한 글 게시부터 시작하려는 방향이 제시됐으나, 구체적인 구현 안내나 실행 결과는 이어지지 않았다.",
+      "tags": [
+        "Threads",
+        "글 게시 자동화",
+        "브라우저 자동화"
+      ],
+      "topics": [
+        {
+          "title": "목적에 따른 자동화 방법 선택",
+          "body": "봇은 글 자동 게시에는 Meta 공식 Threads API를, 화면에서 반복하는 작업에는 브라우저 자동화를 검토할 수 있다고 안내했다. 어사이드로 반드시 전환할 필요는 없으며, 처음에는 작업 한 가지를 직접 확인하며 시험해 보라고 제안했다."
+        },
+        {
+          "title": "글 게시 자동화 — 해결 확인 필요",
+          "body": "봇은 공식 API를 통한 게시에 계정 연결과 게시 권한 설정이 필요하다고 설명했다. 이후 간단한 글 게시부터 시작하고 싶다는 요청이 이어졌으나, 구체적인 설정·구현 절차와 실행 결과는 확인되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "스레드 리포스트 정리 자동화 — AI브라우저 Aside 활용법",
+          "url": "https://www.youtube.com/watch?v=DA8_BL-qCN4"
+        }
+      ],
+      "date": "2026-10-22",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-22T09:00:00+09:00",
+        "end": "2026-10-22T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-22T05:00:32.183783+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e686c65772b46d3ab211d850c1658213194196cd5a236d3cd0aba9ef99af7f67",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-9626e4763b1367d16fe4",
       "status": "published",
