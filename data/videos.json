@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "F_Eg35sOlLk",
+      "title": "PHP 긴급 보안 구멍, 내 홈페이지가 해당되는지 고친 버전 번호 네 개만 보면 알아요",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=F_Eg35sOlLk",
+      "scope": "제목·공개 목록 확인",
+      "tags": "PHP 긴급 보안 구멍, 내 홈페이지가 해당되는지 고친 버전 번호 네 개만 보면 알아요"
+    },
+    {
       "id": "9ov8eDlTZYs",
       "title": "어사이드 리모트 컨트롤로 데스크톱에서 시켰더니 노트북이 블로그를 올렸어요(어사이드에 어사이드 자동화)",
       "kind": "영상",
