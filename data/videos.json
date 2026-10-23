@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "t1Pn9rEQLEY",
+      "title": "어사이드 프로필을 하나 더 만들어 블로그 계정을 나눠 써요",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=t1Pn9rEQLEY",
+      "scope": "제목·공개 목록 확인",
+      "tags": "어사이드 프로필을 하나 더 만들어 블로그 계정을 나눠 써요"
+    },
+    {
       "id": "F_Eg35sOlLk",
       "title": "PHP 긴급 보안 구멍, 내 홈페이지가 해당되는지 고친 버전 번호 네 개만 보면 알아요",
       "kind": "영상",
