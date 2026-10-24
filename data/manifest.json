@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-24T00:00:26.975791+00:00",
+  "updated_at": "2026-10-24T05:00:37.729197+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-7cb239f5c3b461dcade9",
+      "status": "published",
+      "kind": "digest",
+      "title": "공식 AI 소식 안내와 Codex 리셋 관련 언급",
+      "summary": "공식 소식 안내에서 Codex 릴리스와 OpenAI의 모델 학습 환경 보안 관련 원문 제목이 소개됐다. Codex가 새벽 4시 이후 리셋됐다는 언급도 있었으나, 리셋 대상이나 적용 범위는 설명되지 않았다. 공개 활용 팁으로 정리할 구체적인 내용은 적었다.",
+      "tags": [
+        "Codex",
+        "공식 AI 소식"
+      ],
+      "topics": [
+        {
+          "title": "공식 AI 소식 안내",
+          "body": "봇이 Codex rust-v0.164.0 릴리스와 OpenAI의 모델 학습 환경 보안 관련 소식 제목을 소개했다. 세부 변경 내용과 공개 URL은 입력에 없어 구체적인 활용 방법은 확인할 수 없다."
+        },
+        {
+          "title": "Codex 리셋 시점에 관한 언급",
+          "body": "Codex가 새벽 4시 이후 리셋됐다는 언급이 있었다. 무엇이 리셋됐는지와 적용 범위, 이를 뒷받침하는 근거는 제시되지 않아 일반적인 초기화 일정으로 단정할 수 없다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-24",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-24T09:00:00+09:00",
+        "end": "2026-10-24T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-24T05:00:31.965254+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "6e42902dfa12aaa616f5ab4d7b4e5c1565a865b9e466c8edb6f7f470e4c0ff2c",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-207432eb7b55df8b1113",
       "status": "published",
