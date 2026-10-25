@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-25T00:00:21.579500+00:00",
+  "updated_at": "2026-10-25T05:00:30.437368+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,59 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-56d2a8eb335cabc2b79a",
+      "status": "published",
+      "kind": "digest",
+      "title": "개인 AI 에이전트 소개와 어사이드·Chrome 확장 사용 안내",
+      "summary": "피클의 개인 AI 비서 기능과 브라우저 확장 프로그램의 설치·연결 방식이 소개됐다. 어사이드는 Chrome과 별도 브라우저이며 설정을 가져오는 것과 실행 환경을 공유하는 것은 다르다는 설명이 이어졌다. Codex 사용 한도 리셋 시각도 안내됐으나 계정별 반영과 예정된 리셋의 완료 여부는 확인되지 않았다.",
+      "tags": [
+        "AI 에이전트",
+        "브라우저 확장",
+        "어사이드",
+        "Claude Code",
+        "Codex"
+      ],
+      "topics": [
+        {
+          "title": "피클의 개인 AI 비서 기능",
+          "body": "봇은 앱 소개를 근거로 피클이 전화·예약·주문 등을 대신 수행하며 중요한 결제·예약 전에 사용자 승인을 받는 방식이라고 안내했다. 사용을 추천하는 의견도 있었으나 실제 작업 수행 결과는 공유되지 않았다."
+        },
+        {
+          "title": "어사이드와 Chrome의 확장 프로그램",
+          "body": "확장은 사용할 브라우저에 설치한다는 안내가 나왔다. 어사이드는 Chrome 자체를 내부에서 실행하는 것이 아니라 북마크 등 설정을 가져오는 별도 브라우저라는 설명이 이어졌다. 초기 동기화로 Chrome 확장을 가져올 수 있지만 이후 추가하는 확장은 양쪽에 각각 설치해야 한다는 설명도 공유됐다."
+        },
+        {
+          "title": "해결 확인 필요",
+          "body": "CLI와 브라우저 연결에 관해 봇은 Claude Code의 claude --chrome 및 /chrome, 어사이드의 CLI·MCP 연결 방식을 안내했다. 데스크톱 앱의 연결 설정이 CLI에 모두 자동 전달되는 것은 아니라는 설명도 있었다. 필요한 전용 확장의 이름과 실제 연결·작동 결과는 확인되지 않았다."
+        },
+        {
+          "title": "Codex 사용 한도 리셋 안내의 확인 범위",
+          "body": "봇은 공개 추적 기록을 근거로 최근 리셋 시각을 안내하면서 계정별 반영 시각은 다를 수 있다고 덧붙였다. 당일 오후 4시 리셋 예정도 언급됐지만, 대화 범위에서 완료 여부는 확인되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "어사이드 CLI를 활용한 브라우저 자동화 소개 영상",
+          "url": "https://www.youtube.com/watch?v=taBSbKL24Ng"
+        }
+      ],
+      "date": "2026-10-25",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-25T09:00:00+09:00",
+        "end": "2026-10-25T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-25T05:00:22.969596+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "286286d4630faabf684e5bbb4fea5d0656a15931ee8e7a9527eef6f916155680",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-cd9d2c73fc9859e57bc9",
       "status": "published",
