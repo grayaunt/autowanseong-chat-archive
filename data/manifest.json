@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-24T09:00:30.563453+00:00",
+  "updated_at": "2026-10-25T00:00:21.579500+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,33 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-cd9d2c73fc9859e57bc9",
+      "status": "published",
+      "kind": "digest",
+      "title": "안내 메시지 중심의 대화",
+      "summary": "제공된 대화에는 AI 활용·영상 제작·업무자동화에 관한 질문을 받는다는 봇 안내가 있었다. 함께 포함된 이전 시간대의 요약은 이번 범위의 논의로 집계하지 않았다. 공개 활용 팁으로 정리할 구체적인 질의응답은 없었다.",
+      "tags": [
+        "이용 안내"
+      ],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-25",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-24T18:00:00+09:00",
+        "end": "2026-10-25T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-25T00:00:16.517077+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "68364a6e3c1a11c557b16dc4e76c26ae52c607178fc5f8d9c43fc80d5fd8a307",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-57b8e588df3eeb8b0651",
       "status": "published",
