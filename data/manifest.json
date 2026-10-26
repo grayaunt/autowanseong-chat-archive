@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-26T05:00:24.457245+00:00",
+  "updated_at": "2026-10-26T09:00:57.497630+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-e405f76c5d6845ee3892",
+      "status": "published",
+      "kind": "digest",
+      "title": "모임 일정 변경과 취소 가능성 안내",
+      "summary": "모임 시간에 대한 아쉬움과 일정 변경 안내가 오갔다. 오후 일정은 최소 인원 조건에 따라 취소될 수 있다는 설명이 있었으며, 변경이나 취소가 확정됐다는 내용은 없었다.",
+      "tags": [
+        "모임 일정",
+        "일정 변경"
+      ],
+      "topics": [
+        {
+          "title": "모임 시간 조정",
+          "body": "오후 개최에 대한 아쉬움이 나왔고, 일정을 변경하려 한다는 안내가 이어졌다."
+        },
+        {
+          "title": "최소 인원에 따른 취소 가능성",
+          "body": "최소 6명이라는 조건과 함께 오후 일정이 취소될 수 있다는 설명이 있었다. 최종 일정이나 취소 여부는 대화에서 확인되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-26",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-26T14:00:00+09:00",
+        "end": "2026-10-26T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-26T09:00:44.321870+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "fb13e2cab98834ef8c202ee62650717aea1e396e7ef73888a78d4f98c7265380",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-9bdffd9d3fe855fcd43b",
       "status": "published",
