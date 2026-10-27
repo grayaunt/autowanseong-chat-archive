@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-27T00:00:36.845825+00:00",
+  "updated_at": "2026-10-27T05:00:39.640486+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-f04450e62404f03d080f",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 모델 선택과 Codex·Claude Code 시작하기",
+      "summary": "AI 모델을 작업에 따라 고르는 방법과 Codex·Claude Code로 작은 결과물을 만드는 시작 절차가 안내됐다. 모델 성능·요금 설명은 봇이 전달한 발표 내용이며, 대화에서 별도로 검증되지는 않았다. 도구 사용 안내 뒤 실제 실행이나 해결 확인은 없었다.",
+      "tags": [
+        "AI 활용",
+        "모델 선택",
+        "Codex",
+        "Claude Code"
+      ],
+      "topics": [
+        {
+          "title": "작은 작업으로 모델 비교하기",
+          "body": "봇은 GPT-6.1 Terra를 이미지·자료 정리와 반복 업무에, Sol을 복잡한 코딩에 우선 고려하도록 안내했다. 성능 개선과 API 요금 차이도 설명했으나 대화에는 이를 검증할 자료가 없었다. 활용 팁으로는 같은 작은 작업을 맡겨 결과와 수정 횟수를 비교하는 방법이 제시됐다."
+        },
+        {
+          "title": "요청에 확인 기준과 작업 범위 넣기",
+          "body": "상품 사진과 목록을 비교할 때는 확인이 필요한 항목을 구분하고 보이지 않는 정보를 추측하지 않도록 요청하는 예시가 나왔다. 코드 수정에는 원인과 변경 범위를 먼저 설명하고, 최소한의 수정과 관련 테스트 결과를 요청하는 예시가 제시됐다."
+        },
+        {
+          "title": "해결 확인 필요",
+          "body": "Codex·Claude Code 입문 질문에는 VS Code에서 연습용 폴더를 열고 해당 확장을 설치한 뒤, 계정으로 로그인해 작은 웹페이지부터 만들어 보라는 답변이 있었다. 이용 조건을 확인하고 생성된 파일과 실행 결과를 살펴보라는 안내도 포함됐다. 이후 설치나 실행 결과에 대한 확인은 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "대화에 첨부된 공개 영상",
+          "url": "https://www.youtube.com/watch?v=dkZWPHah8XI"
+        }
+      ],
+      "date": "2026-10-27",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-27T09:00:00+09:00",
+        "end": "2026-10-27T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-27T05:00:30.528646+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "670fbac4001cf785e2eabc2ebd23ba6ec6f599bdd62a455ae011b61374684640",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-d8af413309f224e64e2b",
       "status": "published",
