@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-27T05:00:39.640486+00:00",
+  "updated_at": "2026-10-27T09:01:09.222069+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-48127812607c5bd9cc04",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 개인비서 에이전트의 장보기·전화 활용 영상 안내",
+      "summary": "주어진 시간 범위에는 AI 개인비서 에이전트의 장보기와 전화 활용을 다룬 공개 영상 두 편이 안내됐다. 구체적인 사용 절차나 결과를 검토하는 후속 대화는 없었다. 함께 입력된 이전 시간대 요약은 이번 시간대의 논의로 포함하지 않았다.",
+      "tags": [
+        "AI 개인비서",
+        "에이전트",
+        "장보기",
+        "전화"
+      ],
+      "topics": [
+        {
+          "title": "장보기 활용 영상",
+          "body": "AI 개인비서 에이전트에 장보기를 맡겨보는 영상이 안내됐다. 대화에는 구체적인 실행 방법이나 결과 설명이 없어 활용 효과를 판단하기 어렵다."
+        },
+        {
+          "title": "전화 활용 영상",
+          "body": "AI 개인비서 에이전트에 전화를 시키고 수신해보는 영상이 안내됐다. 대화에는 사용 조건이나 작동 결과에 대한 추가 설명이 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "AI 개인비서 에이전트 장보기 활용 영상",
+          "url": "https://www.youtube.com/watch?v=PSdaDMMwdVQ"
+        },
+        {
+          "label": "AI 개인비서 에이전트 전화 활용 영상",
+          "url": "https://www.youtube.com/watch?v=WcBb2qnl_bE"
+        }
+      ],
+      "date": "2026-10-27",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-27T14:00:00+09:00",
+        "end": "2026-10-27T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-27T09:01:02.300091+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "dc072fcd6b93a7264c3e97ec702285f1a651eca48f2343288c30cd4dd6542e88",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-f04450e62404f03d080f",
       "status": "published",
