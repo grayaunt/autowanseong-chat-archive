@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-26T09:00:57.497630+00:00",
+  "updated_at": "2026-10-27T00:00:36.845825+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-d8af413309f224e64e2b",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 개인비서의 장보기·전화 활용 영상 안내",
+      "summary": "제공된 대화에는 AI 개인비서 ‘피클’의 장보기와 전화 활용을 다룬 영상 안내가 있었다. 구체적인 사용 방법이나 성능에 관한 토론, 질문과 답변은 포함되지 않았다.",
+      "tags": [
+        "AI 개인비서",
+        "피클",
+        "장보기",
+        "전화"
+      ],
+      "topics": [
+        {
+          "title": "장보기 요청을 다룬 영상",
+          "body": "AI 개인비서에 장보기를 요청하는 내용을 다룬 영상이 소개됐다. 대화에는 실행 절차나 결과에 대한 구체적인 설명이 없어 활용 팁이나 성능을 판단하기 어렵다."
+        },
+        {
+          "title": "전화 요청을 다룬 영상",
+          "body": "AI 개인비서에 전화를 요청하고 수신하는 내용을 다룬 영상이 소개됐다. 대화에서 통화 기능의 작동 조건이나 실제 활용 결과에 대한 추가 설명은 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "안내된 공개 영상 1",
+          "url": "https://www.youtube.com/watch?v=KI3vgDOrm-c"
+        },
+        {
+          "label": "안내된 공개 영상 2",
+          "url": "https://www.youtube.com/watch?v=ty19o5ZZeQw"
+        }
+      ],
+      "date": "2026-10-27",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-26T18:00:00+09:00",
+        "end": "2026-10-27T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-27T00:00:31.412593+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e5a5bf19beb68ab1754ad0b57c3910a4017f4b7aa9619e35cb65131fa376cebb",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-e405f76c5d6845ee3892",
       "status": "published",
