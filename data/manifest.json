@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-28T00:00:19.300719+00:00",
+  "updated_at": "2026-10-28T05:00:26.029026+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,33 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-72d81580ad5a29784e8d",
+      "status": "published",
+      "kind": "digest",
+      "title": "점심 인사 중심의 짧은 대화",
+      "summary": "해당 시간대에는 점심 안내와 식사 인사가 오갔다. AI 활용이나 업무자동화에 관한 구체적인 질문과 답변은 없었다. 이전 시간대 요약과 입장 안내를 제외하면 공개 활용 팁으로 정리할 대화는 부족했다.",
+      "tags": [
+        "일상 인사"
+      ],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-28",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-28T09:00:00+09:00",
+        "end": "2026-10-28T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-28T05:00:20.408711+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e7ff369191175b7813bfa4b30aea033bddc284f8a5bbadc8c06aec3c35c2f9dc",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-f424c06331416c4e81b3",
       "status": "published",
