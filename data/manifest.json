@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-28T05:00:26.029026+00:00",
+  "updated_at": "2026-10-28T09:00:28.600634+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-322ff1a7edc70471a72a",
+      "status": "published",
+      "kind": "digest",
+      "title": "공개 활용 팁을 정리하기에 대화가 부족한 시간대",
+      "summary": "주어진 시간대에는 도구 리셋 상태에 관한 짧은 언급만 있었다. 함께 제공된 봇 답변은 이전 시간대 요약이므로 이번 요약에서 제외했다. 공개 활용에 유익한 구체적인 질문이나 답변은 확인되지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-28",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-28T14:00:00+09:00",
+        "end": "2026-10-28T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-28T09:00:21.679548+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "3cc723f0d5d13d851b72a4df723acea44bc5b15bde2d5557b2e2483984fa42db",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-72d81580ad5a29784e8d",
       "status": "published",
