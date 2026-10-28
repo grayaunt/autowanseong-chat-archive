@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-27T09:01:09.222069+00:00",
+  "updated_at": "2026-10-28T00:00:19.300719+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-f424c06331416c4e81b3",
+      "status": "published",
+      "kind": "digest",
+      "title": "월드 모델 Genie 4 소개 영상 안내",
+      "summary": "주어진 시간 범위에는 구글 딥마인드의 월드 모델 Genie 4와 Genie 3의 차이를 소개한다는 영상 안내가 있었다. 구체적인 차이점이나 활용 방법을 다룬 후속 대화는 없었다. 이전 시간대 요약과 입장 안내는 주제에서 제외했다.",
+      "tags": [
+        "AI",
+        "월드 모델",
+        "영상 안내"
+      ],
+      "topics": [
+        {
+          "title": "Genie 4 소개 영상",
+          "body": "구글 딥마인드의 새 월드 모델 Genie 4를 소개한다는 영상이 안내됐다. 이는 영상 안내 문구에 따른 설명이며, 대화에서 모델의 공개 여부나 기능을 별도로 확인하지는 않았다."
+        },
+        {
+          "title": "Genie 3와의 비교 관점",
+          "body": "영상은 Genie 3와 달라진 점을 다룬다고 소개됐다. 다만 실제 차이점이나 사용 조건은 대화에 제시되지 않아 구체적인 비교 팁을 정리할 근거는 부족하다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "Genie 4 소개 및 Genie 3 비교 안내 영상",
+          "url": "https://www.youtube.com/watch?v=U32dc1YoYwU"
+        }
+      ],
+      "date": "2026-10-28",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-27T18:00:00+09:00",
+        "end": "2026-10-28T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-28T00:00:13.092634+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "90eb25b0d5a801b7ddae9769f419a36a9a9309dc6fa6b12a9ccf1ff3f64d34be",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-48127812607c5bd9cc04",
       "status": "published",
