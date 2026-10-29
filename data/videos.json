@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "4kKVBAF_lvI",
+      "title": "폰 화면을 PC에서 어떻게 움직일까? ADB·테일스케일과 이완성 실습 자료",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=4kKVBAF_lvI",
+      "scope": "제목·공개 목록 확인",
+      "tags": "폰 화면을 PC에서 어떻게 움직일까? ADB·테일스케일과 이완성 실습 자료"
+    },
+    {
       "id": "fs72jg8nG0s",
       "title": "홈페이지는 코덱스가 만들고, 잔소리는 제가 했습니다. “아니 그게 아니고”를 반복했더니 진짜 제 홈페이지가 됐어요",
       "kind": "영상",
