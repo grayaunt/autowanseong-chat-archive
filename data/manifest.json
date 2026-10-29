@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-28T09:00:28.600634+00:00",
+  "updated_at": "2026-10-29T00:00:29.499540+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-b8d219215c8cbcef8f67",
+      "status": "published",
+      "kind": "digest",
+      "title": "코덱스를 활용한 홈페이지 제작 영상 안내",
+      "summary": "시간 범위 내 제공된 내용에서는 코덱스를 활용한 홈페이지 제작 영상 안내가 확인됐다. 영상 소개는 반복적인 피드백으로 원하는 결과를 만들어 가는 과정을 다룬다고 설명한다. 구체적인 제작 방법이나 질의응답은 포함되지 않았다.",
+      "tags": [
+        "코덱스",
+        "홈페이지 제작",
+        "피드백"
+      ],
+      "topics": [
+        {
+          "title": "코덱스를 활용한 홈페이지 제작",
+          "body": "코덱스로 홈페이지를 만드는 과정을 소개하는 공개 영상이 안내됐다. 대화에는 구현 방법이나 결과 검증에 관한 구체적인 설명은 없었다."
+        },
+        {
+          "title": "반복적인 피드백으로 결과 조정",
+          "body": "영상 소개에서는 원하는 홈페이지에 가까워지도록 반복해서 수정 의견을 전달했다고 설명한다. 실제 요청 방식이나 적용 절차는 제공된 대화에서 확인되지 않는다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "코덱스 홈페이지 제작 소개 영상",
+          "url": "https://www.youtube.com/watch?v=fs72jg8nG0s"
+        }
+      ],
+      "date": "2026-10-29",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-28T18:00:00+09:00",
+        "end": "2026-10-29T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-29T00:00:22.121060+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "289af447e7fb57e3d2fe6bc8f3b22db3f2f26c596946ab8f76eecf5223a63437",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-322ff1a7edc70471a72a",
       "status": "published",
