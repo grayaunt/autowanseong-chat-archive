@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-29T09:00:38.519454+00:00",
+  "updated_at": "2026-10-30T00:00:30.776647+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-c7cb47199bfc3085e90b",
+      "status": "published",
+      "kind": "digest",
+      "title": "대화형 영상 편집과 휴대폰 PC 조작 자료 공유",
+      "summary": "ChatGPT와 대화하며 영상을 편집하는 과정과 휴대폰 화면을 PC에서 조작하는 방법을 소개한 영상이 공유됐다. 영상 편집 소개에는 컷 편집, 쉼 조절, 자막, B-roll, 효과음과 화면 전환이 포함됐다. 실제 적용 결과나 해결 여부를 확인하는 대화는 없었다.",
+      "tags": [
+        "AI 영상 편집",
+        "ChatGPT",
+        "휴대폰 화면 조작",
+        "학습 자료"
+      ],
+      "topics": [
+        {
+          "title": "대화하며 진행하는 영상 편집",
+          "body": "공유된 영상 소개에서는 촬영 영상을 넣고 대화하며 무음·말실수 컷 편집, 말 사이 쉼 조절, 한 줄 자막, 움직이는 설명 영상 B-roll, 효과음과 화면 전환을 만드는 과정을 다룬다고 안내했다. 사용한 프롬프트도 학습자료로 제공한다고 소개됐으며, 대화에서 편집 품질이나 시간 절감 효과가 검증되지는 않았다."
+        },
+        {
+          "title": "휴대폰 화면을 PC에서 조작하는 실습 소개",
+          "body": "ADB와 테일스케일을 활용해 휴대폰 화면을 PC에서 조작하는 주제의 영상과 실습 자료가 안내됐다. 구체적인 설정 절차나 실행 결과는 대화에 제시되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "공유된 유튜브 영상 1",
+          "url": "https://www.youtube.com/watch?v=4kKVBAF_lvI"
+        },
+        {
+          "label": "공유된 유튜브 영상 2",
+          "url": "https://youtu.be/NuJKKtYbsec"
+        }
+      ],
+      "date": "2026-10-30",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-10-29T18:00:00+09:00",
+        "end": "2026-10-30T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-30T00:00:24.409372+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "80b7296e7c059156bf20287c6c4160b703290cc7f59b044b6f53e39f1fc8e96e",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-7d6c49a1e4424786fb24",
       "status": "published",
