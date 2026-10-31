@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-31T05:00:42.258643+00:00",
+  "updated_at": "2026-10-31T09:01:10.399985+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-1d33810569453ab2113e",
+      "status": "published",
+      "kind": "digest",
+      "title": "새 실무 논의 없이 이어진 안내와 짧은 대화",
+      "summary": "해당 시간대에는 봇의 환영 안내와 대화방을 자유롭게 이용해도 된다는 짧은 응답이 있었다. 공개 활용 팁으로 정리할 새로운 실무 질문이나 구체적인 답변·실행 결과는 확인되지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-31",
+      "slot": "오후",
+      "period": {
+        "start": "2026-10-31T14:00:00+09:00",
+        "end": "2026-10-31T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-31T09:00:57.343776+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "248a84458186b404a8a9f8210a4037f419c5704e8a3be5207c5e999ecfc1edd0",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-c0b7ca5e04ca6f6a0cda",
       "status": "published",
