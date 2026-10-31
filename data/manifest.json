@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-10-31T00:00:36.565720+00:00",
+  "updated_at": "2026-10-31T05:00:42.258643+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,34 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-c0b7ca5e04ca6f6a0cda",
+      "status": "published",
+      "kind": "digest",
+      "title": "새로운 실무 논의 없이 인사가 오간 시간",
+      "summary": "주어진 시간대에는 아침 인사와 짧은 안부가 오갔다. 봇이 이전 시간대의 미용실 AI 마케팅 요약과 전날 대화 통계를 안내했으나, 이번 시간대의 새로운 실무 질문이나 실행 결과는 확인되지 않는다. 공개 활용 팁으로 정리할 새 논의는 부족하다.",
+      "tags": [
+        "인사",
+        "대화 기록"
+      ],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-10-31",
+      "slot": "오전",
+      "period": {
+        "start": "2026-10-31T09:00:00+09:00",
+        "end": "2026-10-31T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-10-31T05:00:32.358433+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "1dd77e71100aa1d9e59f4f5b39751b179b0a620713efa875caec2c2faa529b7d",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-ac18d638a93d878c02ff",
       "status": "published",
