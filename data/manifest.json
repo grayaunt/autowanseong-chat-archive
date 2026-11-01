@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-01T00:00:24.008293+00:00",
+  "updated_at": "2026-11-01T05:00:31.099893+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,44 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-7392e87d86549fda640d",
+      "status": "published",
+      "kind": "digest",
+      "title": "날씨 안내와 건강 인사가 오간 대화",
+      "summary": "봇의 응답 여부를 확인하는 대화에 이어 날씨 질문과 답변이 오갔다. 봇은 서울의 쌀쌀한 날씨와 저녁 비 예보를 안내하며 겉옷과 우산 준비를 권했다. 이후 건강을 챙기자는 인사가 이어졌다.",
+      "tags": [
+        "날씨 안내",
+        "외출 준비",
+        "건강 인사"
+      ],
+      "topics": [
+        {
+          "title": "날씨 안내와 외출 준비",
+          "body": "날씨 질문에 봇은 11월 1일 서울이 흐리고 현재 10℃이며 저녁에는 비 예보가 있다고 답했다. 이는 대화 속 봇 안내이며, 외출 시 따뜻한 겉옷과 작은 우산을 챙기라는 제안이 함께 제공됐다."
+        },
+        {
+          "title": "쌀쌀한 날씨에 나눈 건강 인사",
+          "body": "날씨 안내 뒤 감기를 조심하고 건강을 챙기자는 짧은 인사가 오갔다. 구체적인 건강 관리 방법에 관한 논의는 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-01",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-01T09:00:00+09:00",
+        "end": "2026-11-01T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-01T05:00:14.932678+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "b6ce0df7c7dd0e738c16bbaeab97f0ebbd904d67be9ab57afd695b1551022e9c",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-64bcb4ccb28b0861f007",
       "status": "published",
