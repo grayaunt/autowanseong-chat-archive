@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-02T05:00:16.892716+00:00",
+  "updated_at": "2026-11-02T09:00:27.539257+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,39 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-d0a1cbe6f02672b7c437",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 직원 만들기 관련 새 영상 안내",
+      "summary": "해당 시간대에는 이전 시간대의 대화 요약과 새 영상 안내가 제공됐다. 영상은 코딩 없이 AI 직원을 만들고 회의시키는 주제로 소개됐다. 실제 질문·답변이나 구체적인 활용 팁은 확인되지 않았다.",
+      "tags": [
+        "AI 직원",
+        "영상 안내"
+      ],
+      "topics": [],
+      "questions": [],
+      "links": [
+        {
+          "label": "AI 직원 만들기 관련 공개 영상",
+          "url": "https://www.youtube.com/watch?v=ZBGkFCO-jqg"
+        }
+      ],
+      "date": "2026-11-02",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-02T14:00:00+09:00",
+        "end": "2026-11-02T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-02T09:00:20.049677+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "71f69fea67cb547fdcc15ed9fee2eaf94cff7b8879ba9cf2f0bb270bf91e1f1c",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-be68c16b14bf851637dc",
       "status": "published",
