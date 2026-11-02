@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "ZBGkFCO-jqg",
+      "title": "코딩 몰라도 AI 직원 만드는 법, 6명 뽑아서 회의까지 시켜 봤어요",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=ZBGkFCO-jqg",
+      "scope": "제목·공개 목록 확인",
+      "tags": "코딩 몰라도 AI 직원 만드는 법, 6명 뽑아서 회의까지 시켜 봤어요"
+    },
+    {
       "id": "4kKVBAF_lvI",
       "title": "폰 화면을 PC에서 어떻게 움직일까? ADB·테일스케일과 이완성 실습 자료",
       "kind": "영상",
