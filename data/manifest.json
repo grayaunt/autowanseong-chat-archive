@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-03T00:00:40.221909+00:00",
+  "updated_at": "2026-11-03T05:00:35.949695+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-a3c2c35edb05e11e977a",
+      "status": "published",
+      "kind": "digest",
+      "title": "어사이드 입문 자료와 기본 활용 안내",
+      "summary": "어사이드 학습 사이트와 유튜브 자료를 묻는 질문에 입문 가이드와 영상 안내가 이어졌다. 공개 웹페이지를 세 줄로 요약해 보는 연습이 제안됐으며, 추가 가이드도 소개됐다. 일부 자료는 본문이나 영상 내용을 직접 확인하지 못했다는 제한이 함께 안내됐다.",
+      "tags": [
+        "어사이드",
+        "AI 브라우저",
+        "입문 자료",
+        "웹페이지 요약"
+      ],
+      "topics": [
+        {
+          "title": "어사이드 학습 자료 안내",
+          "body": "학습 자료를 요청한 질문에 공식 시작 가이드, 한국어 사용 가이드, 유튜브 영상이 안내됐다. 봇은 한국어 가이드에서 설치와 기본 사용, 메일 작업, 반복 업무 자동화를 다룬다고 설명했다. 가이드 화면은 현재 화면과 다를 수 있다는 안내도 있었다."
+        },
+        {
+          "title": "기본 활용 연습과 자료 확인 범위",
+          "body": "입문 연습으로 공개 웹페이지를 열고 “이 페이지 핵심을 세 줄로 요약해줘”라고 요청하는 방법이 제안됐다. 추가 가이드도 소개됐지만 해당 페이지의 세부 내용은 확인하지 못했다고 밝혔다. 영상 역시 직접 시청한 내용이 아니라 연결 링크나 제목·공개 목록을 확인한 범위로 안내됐다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "대화에 포함된 유튜브 링크 1",
+          "url": "https://www.youtube.com/watch?v=9ZzF5iGj0BM"
+        },
+        {
+          "label": "대화에 포함된 유튜브 링크 2",
+          "url": "https://www.youtube.com/watch?v=jZozimyWw7A"
+        }
+      ],
+      "date": "2026-11-03",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-03T09:00:00+09:00",
+        "end": "2026-11-03T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-03T05:00:30.038255+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e7cbf5e8415c188b10a334c7093f659ae69834b0b844e0763bcd2fa0f783905a",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-aca8e5e3743943cc6cc7",
       "status": "published",
