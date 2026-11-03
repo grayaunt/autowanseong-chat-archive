@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-02T09:00:27.539257+00:00",
+  "updated_at": "2026-11-03T00:00:40.221909+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-aca8e5e3743943cc6cc7",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 활용 대화방 안내와 환영 인사",
+      "summary": "해당 시간대에는 AI 활용 대화방의 취지와 참여 방법을 알리는 안내, 환영 인사가 있었다. 영상·이미지 제작과 반복 업무 줄이기가 대화 주제로 제시됐지만, 구체적인 활용 방법이나 질문·답변은 확인되지 않았다.",
+      "tags": [
+        "AI 활용",
+        "참여 안내"
+      ],
+      "topics": [
+        {
+          "title": "AI 활용 주제 안내",
+          "body": "영상·이미지 만들기와 반복 업무 줄이기 등 일과 일상에서 AI를 활용하는 이야기를 나누는 공간으로 소개됐다. 구체적인 실행 방법은 제시되지 않았다."
+        },
+        {
+          "title": "질문과 자료 확인 안내",
+          "body": "AI 사용 중 궁금하거나 막히는 내용을 질문하고, 공지사항과 지난 대화 아카이브를 참고할 수 있다는 안내가 있었다. 입력에 공개 URL은 포함되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-03",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-02T18:00:00+09:00",
+        "end": "2026-11-03T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-03T00:00:35.428015+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e7859bd2cf9a9bb3f683ee37b0020e3e8a15584d871c49b75f22d35635c770bf",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-d0a1cbe6f02672b7c437",
       "status": "published",
