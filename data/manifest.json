@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-04T05:00:24.206674+00:00",
+  "updated_at": "2026-11-04T09:00:32.905904+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-9d94670008ec9bb65450",
+      "status": "published",
+      "kind": "digest",
+      "title": "11월 4일 오후 대화 요약: 정리할 대화 부족",
+      "summary": "입력에는 이전 시간대의 대화 부족을 알리는 봇 요약만 있어, 지정된 시간 범위의 실제 질의응답이나 공개 활용 팁을 확인하기 어렵다. 별도 주제와 미해결 질문은 정리하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-04",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-04T14:00:00+09:00",
+        "end": "2026-11-04T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-04T09:00:26.985819+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "3a4fe1780f270744ba9708305b3fad88a537ad81cf4064121063273e19120c1f",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-921545aafe342e886a02",
       "status": "published",
