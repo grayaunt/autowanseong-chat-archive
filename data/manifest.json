@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-04T00:00:33.847912+00:00",
+  "updated_at": "2026-11-04T05:00:24.206674+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-921545aafe342e886a02",
+      "status": "published",
+      "kind": "digest",
+      "title": "공개 활용 주제로 정리할 대화 부족",
+      "summary": "입력에는 이전 시간대의 대화 요약, 전날 활동 집계, 점심 안내 등 봇 메시지만 담겨 있다. 지정된 시간 범위의 실제 질의응답이나 공개 활용 팁을 확인할 대화가 부족해 별도 주제와 미해결 질문은 정리하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-04",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-04T09:00:00+09:00",
+        "end": "2026-11-04T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-04T05:00:18.423952+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e2864aefcaa3fde66833d0e5fb77f59813642384556b047698da4852b38be6c3",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-6845d5fbe3e336aaa94b",
       "status": "published",
