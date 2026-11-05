@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-04T09:00:32.905904+00:00",
+  "updated_at": "2026-11-05T00:00:14.215836+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-06b5429dcedb24f396ba",
+      "status": "published",
+      "kind": "digest",
+      "title": "11월 4일 저녁~5일 아침 대화 기록 안내",
+      "summary": "제공된 기록에는 이전 시간대의 대화 부족을 알리는 봇 요약과 반복된 입장 안내만 있다. 지정된 시간대의 구체적인 질의응답이나 공개 활용 팁을 확인할 수 없어 주제와 미해결 질문은 정리하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-05",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-04T18:00:00+09:00",
+        "end": "2026-11-05T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-05T00:00:08.704858+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "95adcc7d4cfc833b7b1831907ae89f8054cd3a61c8aaad0deb0eab37f67880c9",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-9d94670008ec9bb65450",
       "status": "published",
