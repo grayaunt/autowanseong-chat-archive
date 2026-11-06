@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-06T05:00:32.880552+00:00",
+  "updated_at": "2026-11-06T09:00:51.166105+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,36 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-380d3929f16e7d1f4234",
+      "status": "published",
+      "kind": "digest",
+      "title": "대화 안내와 제재 사유에 관한 질문",
+      "summary": "참여 안내와 함께 제재 사유를 묻는 질문이 있었으나, 구체적인 경위나 답변은 제시되지 않았다. 공개 활용 팁으로 정리할 만한 실제 논의는 부족했다.",
+      "tags": [
+        "참여 안내",
+        "제재 관련 질문"
+      ],
+      "topics": [],
+      "questions": [
+        "제재가 발생한 이유는 무엇인가?"
+      ],
+      "links": [],
+      "date": "2026-11-06",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-06T14:00:00+09:00",
+        "end": "2026-11-06T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-06T09:00:22.434656+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "f377460980831242c897480335ab296f801fd0c5c310427d22b00a42c6438509",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-d9555e57954e387a6d00",
       "status": "published",
