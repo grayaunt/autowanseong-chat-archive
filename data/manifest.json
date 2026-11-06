@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-05T09:00:18.969154+00:00",
+  "updated_at": "2026-11-06T00:00:29.592648+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-079fe0eb1dd9f391f951",
+      "status": "published",
+      "kind": "digest",
+      "title": "11월 5일 저녁~6일 아침 대화 요약",
+      "summary": "주어진 대화는 개인 장비와 점검 관련 질문·답변이 중심이어서 공개 활용 주제로 정리할 내용이 부족하다. 포함된 봇 요약도 이전 시간대를 다루고 있어 이번 범위의 실제 논의로 반영하지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-06",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-05T18:00:00+09:00",
+        "end": "2026-11-06T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-06T00:00:21.736870+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "866308773d7b9934616d44b22e397cd9bdddea6135082b4e09c93d9368faf10c",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-0d49d4c6ede24993a833",
       "status": "published",
