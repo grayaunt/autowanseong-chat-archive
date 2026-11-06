@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-06T00:00:29.592648+00:00",
+  "updated_at": "2026-11-06T05:00:32.880552+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,50 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-d9555e57954e387a6d00",
+      "status": "published",
+      "kind": "digest",
+      "title": "파일 정리 요청 방법과 AI 영상 소개",
+      "summary": "AI 도구에 파일 정리를 요청할 때 삭제·이동 전에 정리 후보와 주의점을 확인하는 방식이 제안됐다. 작업 산출물을 주기적으로 백업하는 방법도 언급됐으며, AI 영상 생성 기능을 다룬 영상 안내가 공유됐다.",
+      "tags": [
+        "파일 정리",
+        "백업",
+        "AI 활용",
+        "영상 생성"
+      ],
+      "topics": [
+        {
+          "title": "파일 정리는 후보 확인부터",
+          "body": "클로드 코드나 코덱스에 용량이 큰 폴더, 설치 캐시, 중복 다운로드 등을 확인하도록 요청하는 방식이 제안됐다. 파일을 바로 삭제하거나 옮기지 않고 정리 후보와 주의점부터 설명받는 접근이다. 쌓이는 영상·이미지·자료를 주기적으로 백업하는 방법도 언급됐다."
+        },
+        {
+          "title": "AI 영상 생성 기능 소개",
+          "body": "음성 지시로 배경을 바꾸고 최대 15초 영상을 생성한다는 내용의 영상 안내가 공유됐다. 이는 안내에 담긴 설명이며, 대화에서 기능을 직접 검증하거나 활용법을 추가로 논의한 내용은 없다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "AI 영상 생성 기능 소개 영상",
+          "url": "https://www.youtube.com/watch?v=BQlgaQ6b8MI"
+        }
+      ],
+      "date": "2026-11-06",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-06T09:00:00+09:00",
+        "end": "2026-11-06T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-06T05:00:27.477927+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "8d47ff4b470fd2150a7ddc2c4fa85e444e1a1894e2c0da5d26d8b083d7c0d3df",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-079fe0eb1dd9f391f951",
       "status": "published",
