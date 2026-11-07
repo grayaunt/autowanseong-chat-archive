@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-07T05:00:33.453743+00:00",
+  "updated_at": "2026-11-07T09:00:23.308364+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-3920ca9d3e5d0d727622",
+      "status": "published",
+      "kind": "digest",
+      "title": "11월 7일 14~18시 대화 기록 요약",
+      "summary": "제공된 기록은 이전 시간대의 대화를 정리한 봇 안내 1건뿐이다. 해당 안내를 제외하면 이번 시간 범위의 구체적인 활용 질문이나 답변, 후속 토론은 확인되지 않아 공개 활용 팁과 미해결 질문을 추리지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-07",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-07T14:00:00+09:00",
+        "end": "2026-11-07T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-07T09:00:18.403280+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "def51e71e02898de52a018230568e375a715fb02014d1fa9484e44e1f7108319",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-afac83d3f7a33085f090",
       "status": "published",
