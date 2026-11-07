@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-07T00:00:37.142433+00:00",
+  "updated_at": "2026-11-07T05:00:33.453743+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-afac83d3f7a33085f090",
+      "status": "published",
+      "kind": "digest",
+      "title": "무료 프로그램 소개 영상과 AI 활용 안내",
+      "summary": "시간 범위 내 기록은 봇 공지와 안내가 중심이며, 구체적인 활용 질문이나 후속 토론은 확인되지 않았다. 무료 프로그램 소개 영상과 AI 제작·업무 자동화에 관한 참여 안내가 있었다. 이전 시간대의 대화를 재요약한 내용은 이번 대화의 활용 팁으로 포함하지 않았다.",
+      "tags": [
+        "무료 프로그램",
+        "AI 활용",
+        "업무 자동화"
+      ],
+      "topics": [
+        {
+          "title": "무료 프로그램 소개 영상",
+          "body": "한글 파일 변환과 영상 자르기 등을 다루는 깃허브 무료 프로그램 5개 소개 영상이 공지됐다. 입력에는 프로그램별 사용법이나 검증 내용은 포함되지 않았다."
+        },
+        {
+          "title": "AI 제작과 반복 업무 줄이기",
+          "body": "영상·이미지 제작과 반복 업무 줄이기가 대화에서 다룰 수 있는 활용 주제로 안내됐다. 해당 시간대에 구체적인 실행 방법이나 사례 토론은 이어지지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "깃허브 무료 프로그램 5개 소개 영상",
+          "url": "https://www.youtube.com/watch?v=TNFStUN7b1M"
+        }
+      ],
+      "date": "2026-11-07",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-07T09:00:00+09:00",
+        "end": "2026-11-07T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-07T05:00:28.509837+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "cf2a2ef7b75f0ec96fbfa5d39454a2d37985286b39b3843746853be49b454543",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-46c5000ac82d27e9a28d",
       "status": "published",
