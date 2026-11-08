@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-07T09:00:23.308364+00:00",
+  "updated_at": "2026-11-08T00:00:19.798946+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-2cccf4202a645ded2677",
+      "status": "published",
+      "kind": "digest",
+      "title": "공개 활용 주제를 추릴 대화 부족",
+      "summary": "제공된 기록은 이전 시간대의 대화 부족을 알린 봇 안내 1건이다. 이번 시간 범위의 구체적인 활용 질문이나 답변은 확인되지 않아 공개 활용 주제와 미해결 질문을 추리지 않았다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-08",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-07T18:00:00+09:00",
+        "end": "2026-11-08T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-08T00:00:14.945707+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "163d60c03cda5a209c3995be63be30c480aefd511137ec192f49e01c547330a5",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-3920ca9d3e5d0d727622",
       "status": "published",
