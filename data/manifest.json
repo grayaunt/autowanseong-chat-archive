@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-08T05:00:21.544364+00:00",
+  "updated_at": "2026-11-08T09:00:28.925026+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-0a736b91f763f1a58dcd",
+      "status": "published",
+      "kind": "digest",
+      "title": "공개 안내 재게시 외 새 대화 없음",
+      "summary": "입력에는 이전 시간대의 영상 소개를 요약한 봇 답변만 포함돼 있다. 요청한 시간 범위의 새로운 질문이나 제작 방법에 관한 대화는 확인되지 않아, 별도 활용 팁이나 주제를 정리하기에는 근거가 부족하다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-08",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-08T14:00:00+09:00",
+        "end": "2026-11-08T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-08T09:00:21.969619+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "b25483b4acb9f994b50d606da9ab14489c638a091a0cb3aa2c0544bd4749b531",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-c8ddd7bf9777cfa924bd",
       "status": "published",
