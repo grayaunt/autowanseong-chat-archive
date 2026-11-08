@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "aFuCifbZ7jU",
+      "title": "그림 AI 없이 HTML 파일 하나로 그린 2분 영상, 비 오는 밤 클로드 코드 작업실",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=aFuCifbZ7jU",
+      "scope": "제목·공개 목록 확인",
+      "tags": "그림 AI 없이 HTML 파일 하나로 그린 2분 영상, 비 오는 밤 클로드 코드 작업실"
+    },
+    {
       "id": "TNFStUN7b1M",
       "title": "깃허브 무료 프로그램 5개, 한글 파일 변환부터 영상 자르기까지 다 돼요",
       "kind": "영상",
