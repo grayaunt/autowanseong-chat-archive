@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-08T00:00:19.798946+00:00",
+  "updated_at": "2026-11-08T05:00:21.544364+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-c8ddd7bf9777cfa924bd",
+      "status": "published",
+      "kind": "digest",
+      "title": "HTML 파일 하나로 만든 영상 소개",
+      "summary": "그림 AI 없이 HTML 파일 하나로 만든 2분 영상의 공개 안내가 있었다. 비 오는 밤의 클로드 코드 작업실을 주제로 소개됐으며, 구체적인 제작 방법에 관한 대화는 없었다.",
+      "tags": [
+        "HTML",
+        "영상 제작",
+        "클로드 코드"
+      ],
+      "topics": [
+        {
+          "title": "HTML 파일을 활용한 영상",
+          "body": "공개 영상은 그림 AI 없이 HTML 파일 하나로 만든 2분 영상으로 소개됐다. 제작 과정이나 구현 코드는 대화에 포함되지 않았다."
+        },
+        {
+          "title": "비 오는 밤의 작업실 표현",
+          "body": "영상의 주제는 비 오는 밤의 클로드 코드 작업실로 안내됐다. 구체적인 장면 구성이나 표현 기법에 대한 설명은 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "HTML 파일 하나로 만든 비 오는 밤 작업실 영상",
+          "url": "https://www.youtube.com/watch?v=aFuCifbZ7jU"
+        }
+      ],
+      "date": "2026-11-08",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-08T09:00:00+09:00",
+        "end": "2026-11-08T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-08T05:00:15.995537+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "cbff412967bfe8cb41209c1f8cee73026cfcf042787ab8758a2143f374c30077",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-2cccf4202a645ded2677",
       "status": "published",
