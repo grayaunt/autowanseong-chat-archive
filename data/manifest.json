@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-09T05:00:24.875697+00:00",
+  "updated_at": "2026-11-09T09:00:28.032335+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,39 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-35d7ea137880342eb5e4",
+      "status": "published",
+      "kind": "digest",
+      "title": "페이블 5.5 출시 시점 문의",
+      "summary": "페이블 5.5 출시 시점에 대한 질문이 있었다. 봇은 공식 출시일이 발표되지 않았으며, 공식 문서에는 5.1이 최신으로 안내돼 있다고 답했다. 대화에 확인 가능한 공개 링크는 없었다.",
+      "tags": [
+        "페이블 5.5",
+        "출시 일정"
+      ],
+      "topics": [
+        {
+          "title": "출시 일정에 대한 안내",
+          "body": "봇은 11월 9일 기준 페이블 5.5의 공식 출시일이 발표되지 않아 출시 시점을 알 수 없다고 답했다. 이는 대화 속 안내이며, 이를 확인할 공개 URL은 입력에 포함되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-09",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-09T14:00:00+09:00",
+        "end": "2026-11-09T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-09T09:00:22.433332+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "02a5ce77409310ce1ff09dff2656936414f264b5d66f425798a1fcf7a5c9eae9",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-f784540b1b1b7c95b5f2",
       "status": "published",
