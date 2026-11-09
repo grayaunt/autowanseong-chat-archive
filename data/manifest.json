@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-09T00:00:22.387476+00:00",
+  "updated_at": "2026-11-09T05:00:24.875697+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,44 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-f784540b1b1b7c95b5f2",
+      "status": "published",
+      "kind": "digest",
+      "title": "Flow 생성 요청을 나누는 방식의 후속 확인",
+      "summary": "Flow 생성 요청을 나눠 진행하는 방식이 잘 작동했다는 후속 응답이 있었다. 봇의 이전 대화 요약에는 재요청 전 생성 목록 확인과 이미지·프롬프트 사전 준비가 작업 요령으로 소개됐다. 제한 알림 후 대기하는 방법의 효과는 확인되지 않았다.",
+      "tags": [
+        "Flow",
+        "생성 요청",
+        "작업 요령"
+      ],
+      "topics": [
+        {
+          "title": "생성 요청을 나눠 진행하기",
+          "body": "봇 요약에는 생성 개수를 x1로 설정하고 앞선 생성이 끝난 뒤 다음 요청을 넣는 방식이 소개됐다. 이번 시간 범위에는 요청을 나눠 생성하는 방식으로 변경한 뒤 잘 작동했다는 후속 응답이 있었다. 다만 이것이 모든 제한 상황에 효과가 있다는 근거는 없다."
+        },
+        {
+          "title": "재요청 전 확인과 사전 준비",
+          "body": "봇이 전달한 이전 대화 요약에서는 중복 요청과 크레딧 소모를 피하기 위해 재요청 전에 생성 목록을 확인하는 방식이 제안됐다. 이미지와 프롬프트를 미리 준비해 두는 작업 요령도 소개됐다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-09",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-09T09:00:00+09:00",
+        "end": "2026-11-09T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-09T05:00:20.003989+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "f1c73582fdd9964e65c98df9bf848872ff41f1a8b5fa7094da2057a6c38664e3",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-4d0d51a2716a7e4a3294",
       "status": "published",
