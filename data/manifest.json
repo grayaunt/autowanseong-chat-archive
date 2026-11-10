@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-09T09:00:28.032335+00:00",
+  "updated_at": "2026-11-10T05:00:26.258684+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-c4643ff7671d64639c8c",
+      "status": "published",
+      "kind": "digest",
+      "title": "한글 파일 자동화 영상과 홈페이지 안내",
+      "summary": "브라우저에서 신청서 두 장을 작성하고 저장하는 한글 파일 자동화 영상이 소개됐다. 홈페이지 주소 요청에는 봇의 아카이브 안내에 이어, 강의와 도구 자료 등을 모아 둔 홈페이지 안내가 뒤따랐다. 입력에 홈페이지 실제 URL은 포함되지 않았다.",
+      "tags": [
+        "한글 파일 자동화",
+        "신청서 작성",
+        "자료 안내"
+      ],
+      "topics": [
+        {
+          "title": "한글 파일 자동화 영상",
+          "body": "클로드 코드로 브라우저에서 신청서 두 장을 작성하고 저장하는 과정을 다룬 영상이 소개됐다. 구체적인 사용법이나 실행 결과에 대한 후속 대화는 없었다."
+        },
+        {
+          "title": "홈페이지와 자료 모음 안내",
+          "body": "홈페이지 링크 요청에 봇은 공식 주소를 확인하지 못했다며 대화·자료 아카이브를 안내했다. 이후 실전편, 도구 아카이브, 강의 안내를 모은 공식 홈페이지라는 소개가 이어졌다. 실제 주소는 입력에서 생략돼 있어 링크로 제공할 수 없다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "클로드 코드 한글 파일 자동화 영상",
+          "url": "https://www.youtube.com/watch?v=9rxazotqQFs"
+        }
+      ],
+      "date": "2026-11-10",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-10T09:00:00+09:00",
+        "end": "2026-11-10T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-10T05:00:20.662063+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "1394624530c496998e818925ebe587394480166d87c5eee9b9b453668d64ed8b",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-35d7ea137880342eb5e4",
       "status": "published",
