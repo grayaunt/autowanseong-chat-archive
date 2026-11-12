@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-12T00:00:23.207265+00:00",
+  "updated_at": "2026-11-12T05:00:36.308496+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,44 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-64d5611d74d367a070bb",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 업무자동화 수업 영상 공개 안내",
+      "summary": "해당 시간대에는 AI 업무자동화 수업 영상 공개 안내가 있었다. 영상 소개에서는 ‘맥락’을 강조했지만, 구체적인 활용 방법이나 질의응답은 입력에 없어 정리할 근거가 부족하다.",
+      "tags": [
+        "AI 업무자동화",
+        "맥락"
+      ],
+      "topics": [
+        {
+          "title": "AI 업무자동화 수업 영상 안내",
+          "body": "실무자 대상 AI 업무자동화 수업을 다룬 공개 영상이 안내됐다. 소개 문구는 수업에서 ‘맥락’이 자주 언급됐다고 전한다. 영상 본문은 입력에 없어 구체적인 활용 팁은 확인할 수 없다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "AI 업무자동화 수업 소개 영상",
+          "url": "https://www.youtube.com/watch?v=qyqTOSG_tfY"
+        }
+      ],
+      "date": "2026-11-12",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-12T09:00:00+09:00",
+        "end": "2026-11-12T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-12T05:00:30.571605+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "5af824957adb0032492b95167848e81eda5ecafabaefa701f5d1b83420893f00",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-5b59a8cba2deb1c38c91",
       "status": "published",
