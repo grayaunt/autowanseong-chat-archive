@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-12T09:00:25.371979+00:00",
+  "updated_at": "2026-11-13T05:00:20.850054+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,42 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-3ac9301714f2aa88c896",
+      "status": "published",
+      "kind": "digest",
+      "title": "점심 메뉴 안내: 토마토 파스타",
+      "summary": "해당 시간대에는 토마토 파스타를 점심 메뉴로 소개하고 식사 인사를 전한 봇 메시지 1건만 있다. 별도의 질문이나 논의는 없다.",
+      "tags": [
+        "점심 메뉴"
+      ],
+      "topics": [
+        {
+          "title": "토마토 파스타 소개",
+          "body": "토마토 파스타를 점심 메뉴로 소개했다."
+        },
+        {
+          "title": "점심 인사",
+          "body": "오전의 수고를 격려하고 점심을 맛있게 먹으라는 인사를 전했다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-13",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-13T09:00:00+09:00",
+        "end": "2026-11-13T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-13T05:00:15.893967+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e97f64944b3e549e2cb3bf097275150c67049ce7c29096c2594056520c30f7d1",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-ba5c6f22800294ed71f5",
       "status": "published",
