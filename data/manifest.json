@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-13T09:00:22.587848+00:00",
+  "updated_at": "2026-11-14T00:00:24.476193+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-750e4abf526a6e2169cd",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 브라우저 활용 팁과 구매 승인 기능 소개",
+      "summary": "어사이드 브라우저를 활용한 페이지 요약, 콘텐츠 소재 정리, 반복 작업 예약 방법이 봇 답변으로 소개됐다. ChatGPT Wallet이라는 구매 승인 기능에 관한 안내도 있었으나, 입력에는 이를 확인할 공식 URL이나 사용 결과가 없다.",
+      "tags": [
+        "AI 브라우저",
+        "콘텐츠 제작",
+        "반복 업무",
+        "구매 승인"
+      ],
+      "topics": [
+        {
+          "title": "페이지에서 콘텐츠 소재 정리하기",
+          "body": "봇은 어사이드에서 현재 페이지를 바탕으로 요약과 정보 추출을 요청할 수 있다고 소개했다. 공개 자료에서 콘텐츠 소재 3개와 핵심 근거, 짧은 영상의 도입 문장을 뽑고 확인되지 않은 내용을 구분하도록 요청하는 예시를 제시했다. 페이지 하나로 시험한 뒤 원문과 결과를 비교하라는 팁도 덧붙였다."
+        },
+        {
+          "title": "반복 작업 예약 기능 소개",
+          "body": "봇 답변에서는 여러 사이트에 걸친 자료조사와 문서·스프레드시트 작업, 정해진 일정에 작업을 시작하는 루틴 기능이 소개됐다. 실제 사용 결과나 효과를 확인하는 후속 대화는 없었다."
+        },
+        {
+          "title": "사용자 승인 기반 구매 기능 안내",
+          "body": "봇은 ChatGPT Wallet을 AI가 사용자 승인을 받아 구매를 진행하는 기능으로 소개했다. 결제 전에 승인을 요청하도록 지시하는 예시가 있었지만, 기능 제공 여부와 적용 범위를 확인할 공식 URL은 입력에 포함되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "어사이드 활용 관련 영상",
+          "url": "https://www.youtube.com/watch?v=jZozimyWw7A"
+        }
+      ],
+      "date": "2026-11-14",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-13T18:00:00+09:00",
+        "end": "2026-11-14T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-14T00:00:19.045758+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "ccce886a97313e4ac01814f0786b7921d27fe1dc2af4302529f10defb0bcef75",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-52f77a87d1eaf92c384a",
       "status": "published",
