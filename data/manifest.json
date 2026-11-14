@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-14T00:00:24.476193+00:00",
+  "updated_at": "2026-11-14T05:00:39.283781+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,48 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-19bdce05b206ba2ca9ed",
+      "status": "published",
+      "kind": "digest",
+      "title": "내 자료로 답하는 업무 챗봇 제작 영상 안내",
+      "summary": "해당 시간대에는 현장 실무자를 대상으로 한 AI 수업과 내 자료 기반 업무 챗봇 제작을 다룬 공개 영상이 안내됐다. 구체적인 제작 절차나 사용 결과에 관한 대화는 없었다. 이전 시간대의 대화 요약과 일상 인사는 주제 정리에서 제외했다.",
+      "tags": [
+        "업무 챗봇",
+        "AI 수업"
+      ],
+      "topics": [
+        {
+          "title": "내 자료 기반 업무 챗봇",
+          "body": "자신의 자료를 바탕으로 답하는 업무 챗봇 만들기를 주제로 한 영상이 소개됐다. 제작 방법이나 활용 효과를 설명하는 후속 대화는 없었다."
+        },
+        {
+          "title": "현장 실무자 대상 AI 수업",
+          "body": "공개 영상은 현장 실무자들과 진행한 AI 수업 2회를 다룬 것으로 안내됐다. 세부 수업 내용은 대화에 포함되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "내 자료로 답하는 업무 챗봇 만들기 영상",
+          "url": "https://www.youtube.com/watch?v=2atXjURI_Ow"
+        }
+      ],
+      "date": "2026-11-14",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-14T09:00:00+09:00",
+        "end": "2026-11-14T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-14T05:00:33.331945+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "65bd4b3cdb3ca494aa3cd0c4054070e6d09c87e52122508fc634c063490542b8",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-750e4abf526a6e2169cd",
       "status": "published",
