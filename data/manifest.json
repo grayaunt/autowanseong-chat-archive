@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-14T05:00:39.283781+00:00",
+  "updated_at": "2026-11-14T09:00:19.446445+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,33 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-1a334112606f58293331",
+      "status": "published",
+      "kind": "digest",
+      "title": "신규 참여자 환영과 대화방 이용 안내",
+      "summary": "신규 참여자를 다시 환영해 달라는 요청에 봇이 환영 인사와 이용 안내를 제공했다. AI 영상·이미지 제작과 반복 업무 줄이기를 대화 주제로 소개하고 공지사항 확인을 안내했다. 해당 시간대에는 공개 활용 팁으로 정리할 구체적인 질문이나 실무 답변은 없었다.",
+      "tags": [
+        "참여 안내"
+      ],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-14",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-14T14:00:00+09:00",
+        "end": "2026-11-14T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-14T09:00:13.890778+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "9d716e069c7e4ca24e32fd6a7942ef970745a24f17f35cb268a6d4a889768715",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-19bdce05b206ba2ca9ed",
       "status": "published",
