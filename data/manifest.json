@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-15T00:00:20.511695+00:00",
+  "updated_at": "2026-11-15T05:00:40.976164+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-855b1d43843223c3d7c2",
+      "status": "published",
+      "kind": "digest",
+      "title": "오전 공개 알림 요약",
+      "summary": "입력에는 봇 알림만 있으며, 구체적인 질문이나 실무 답변은 확인되지 않는다. AI 작업 지시에서 맥락을 다룬 영상 안내가 있었으나, 영상 내용이나 활용 효과를 검토한 대화는 없다.",
+      "tags": [
+        "AI 작업 지시",
+        "맥락",
+        "영상 안내"
+      ],
+      "topics": [
+        {
+          "title": "AI 작업 지시와 맥락 관련 영상 안내",
+          "body": "프롬프트와 맥락을 주제로 한 공개 영상이 안내됐다. 입력에는 영상 소개만 있어 구체적인 활용 방법이나 효과를 정리하기 어렵다."
+        },
+        {
+          "title": "대화 기록 안내의 범위",
+          "body": "이전 시간대 요약과 전날 대화 집계 알림이 포함됐다. 해당 알림에서 이번 시간 범위의 구체적인 질의응답이나 공개 활용 팁은 확인되지 않는다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "AI 작업 지시와 맥락 관련 공개 영상",
+          "url": "https://www.youtube.com/watch?v=hW6Svt_sWzY"
+        }
+      ],
+      "date": "2026-11-15",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-15T09:00:00+09:00",
+        "end": "2026-11-15T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-15T05:00:35.558211+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "ba337975019578d4e71f897e2c6b5775f3cd967d18f233b29eedf941ed136770",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-1ab21f1506bde2254a9d",
       "status": "published",
