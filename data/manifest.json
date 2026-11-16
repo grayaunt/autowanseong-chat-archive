@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-16T00:00:39.845205+00:00",
+  "updated_at": "2026-11-16T05:00:28.642213+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-639d860b21a03ceb687c",
+      "status": "published",
+      "kind": "digest",
+      "title": "안내 메시지 중심으로, 새 활용 팁은 확인되지 않은 시간",
+      "summary": "제공된 대화에는 이전 시간대 요약, 전날 기록 안내, 점심 인사만 있었다. 해당 시간대의 구체적인 AI 활용 방법이나 실무 질문·답변은 없어 공개 활용 팁을 추리기에는 자료가 부족하다.",
+      "tags": [
+        "대화 안내",
+        "자료 부족"
+      ],
+      "topics": [
+        {
+          "title": "이전 대화 요약 안내",
+          "body": "이전 시간대와 전날의 대화를 정리한 봇 안내가 있었다. 그 내용은 이번 시간대에 새로 이루어진 활용 논의로 포함하지 않았다."
+        },
+        {
+          "title": "새 활용 논의 부족",
+          "body": "그 밖에는 점심 인사가 있었으며, 구체적인 사용 절차나 활용 사례를 다룬 대화는 제공되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-16",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-16T09:00:00+09:00",
+        "end": "2026-11-16T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-16T05:00:23.708585+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "ebe94968d9c62443e301a557e81eba8b2ffadb2d72ff5cb866a889c34f845ece",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-6b4af7cf6af60a102e7e",
       "status": "published",
