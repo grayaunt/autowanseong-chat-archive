@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-15T09:00:29.679877+00:00",
+  "updated_at": "2026-11-16T00:00:39.845205+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-6b4af7cf6af60a102e7e",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 활용 대화방 안내와 환영 인사",
+      "summary": "새 참여자를 맞이하는 인사와 대화방 안내가 중심이었다. AI 영상·이미지 제작과 반복 업무 줄이기가 대화 주제로 소개됐으나, 구체적인 활용 방법이나 실무 질문·답변은 없어 공개 활용 팁을 추리기에는 자료가 부족하다.",
+      "tags": [
+        "AI 활용",
+        "대화방 안내"
+      ],
+      "topics": [
+        {
+          "title": "AI 활용 주제 안내",
+          "body": "봇 안내에서 영상·이미지 만들기와 반복 업무 줄이기가 함께 이야기할 주제로 소개됐다. 실제 사용 절차나 사례에 관한 대화는 없었다."
+        },
+        {
+          "title": "초보자 참여와 질문 안내",
+          "body": "AI를 처음 배우는 사람도 질문이나 시도한 내용을 나눌 수 있으며, 막히는 점은 봇에게 물어볼 수 있다는 안내가 있었다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-16",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-15T18:00:00+09:00",
+        "end": "2026-11-16T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-16T00:00:33.875710+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "50aa27e16ebd09d5ffb793d3aafdb8990a549b2e88e7a47cc135158e1672f67c",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-9e7873fc9458f6d4bd31",
       "status": "published",
