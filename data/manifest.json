@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-18T00:00:24.477309+00:00",
+  "updated_at": "2026-11-18T05:00:32.496772+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,53 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-4136ce7e55cc2a1194c9",
+      "status": "published",
+      "kind": "digest",
+      "title": "모델 설정 변경 권고와 버튼형 실행 도구 소개",
+      "summary": "코덱스를 연동한 도구에서 GPT 6.2 Sol로 설정을 변경하자는 권고와 회의 메모 보고서 작성 시연 영상이 공유됐다. 자주 쓰는 프로그램이나 기능을 버튼 하나로 실행하는 스트림덱 형태의 도구도 소개됐다. 가격 인하와 작업 시간은 대화에서 제시된 내용이며, 실제 적용 효과를 확인하는 후속 대화는 없다.",
+      "tags": [
+        "모델 설정",
+        "문서 작성",
+        "실행 도구"
+      ],
+      "topics": [
+        {
+          "title": "코덱스 연동 모델 변경 권고",
+          "body": "어사이드에서 코덱스를 사용하는 경우 GPT 6.2 Sol로 변경하자는 권고가 있었다. 가격 인하가 이유로 언급됐으나, 입력에는 요금 근거나 설정 절차가 제시되지 않았다."
+        },
+        {
+          "title": "회의 메모 보고서 작성 시연",
+          "body": "봇이 GPT 6.2 Astra와 Sol을 소개하는 공개 영상을 안내했다. 영상 제목에는 회의 메모 보고서를 23초 만에 작성했다는 내용이 담겼지만, 대화에는 구체적인 작업 조건이나 결과 검토가 없다."
+        },
+        {
+          "title": "자주 쓰는 기능을 버튼으로 실행",
+          "body": "자주 쓰는 프로그램이나 기능을 버튼 하나로 바로 실행하는 스트림덱 형태의 도구가 소개됐다. 도구 추천도 있었으나 해당 주소는 입력에서 생략돼 있어 사용법이나 배포처는 확인할 수 없다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "GPT 6.2 Astra·Sol 소개 및 회의 메모 보고서 작성 시연",
+          "url": "https://www.youtube.com/watch?v=Ddv4H9gIQHw"
+        }
+      ],
+      "date": "2026-11-18",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-18T09:00:00+09:00",
+        "end": "2026-11-18T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-18T05:00:26.126262+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "435a77e6812eaab88101f05ec5f78ce63a78558f1764a0fa8be8c9e0af95fc9e",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-19815b0bb43030639e13",
       "status": "published",
