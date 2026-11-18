@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-17T09:00:25.356086+00:00",
+  "updated_at": "2026-11-18T00:00:24.477309+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,44 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-19815b0bb43030639e13",
+      "status": "published",
+      "kind": "digest",
+      "title": "업무 문서 작성에 관한 봇 활용 안내",
+      "summary": "제공된 대화에는 이전 시간대 요약과 업무 문서 작성에 관한 봇 안내만 있다. 봇은 모델 공개 및 문서 작성 개선을 소개하고, 회의 메모를 결정 사항과 할 일 중심으로 정리하는 활용 예시를 제안했다. 이를 뒷받침하는 공개 링크나 후속 질문·사용 결과는 입력에 없다.",
+      "tags": [
+        "업무 문서",
+        "회의 메모",
+        "봇 안내"
+      ],
+      "topics": [
+        {
+          "title": "업무 문서 작성 개선 소개",
+          "body": "봇은 GPT-6.2 Astra와 Sol이 공개됐으며 ChatGPT Work의 보고서·제안서 초안 작성이 개선됐다고 안내했다. 입력에 확인 가능한 공식 링크가 없어 봇이 소개한 내용으로만 정리한다."
+        },
+        {
+          "title": "회의 메모 정리 활용 예시",
+          "body": "회의 메모에서 결정 사항과 할 일을 중심으로 짧은 보고서를 작성하도록 요청하는 방법이 제안됐다. 실제 사용 결과나 효과에 관한 후속 대화는 없다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-18",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-17T18:00:00+09:00",
+        "end": "2026-11-18T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-18T00:00:18.473193+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "496928ec6f2c1ca0cac0f9c1c6958f219b35b03a9c107e7634e8f0f89f3d4368",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-15e6fe330a8a1f473dea",
       "status": "published",
