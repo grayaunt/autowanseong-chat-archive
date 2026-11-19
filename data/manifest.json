@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-18T09:00:25.351013+00:00",
+  "updated_at": "2026-11-19T00:00:30.750938+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-3f1301778fe5e0ab981c",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 활용 안내 중심의 짧은 대화",
+      "summary": "해당 시간대에는 영상·이미지 제작과 반복 업무 줄이기를 AI 활용 예시로 소개하는 안내가 있었다. 초보자도 질문이나 사용 경험을 나눌 수 있다고 안내했으며, 구체적인 활용 사례나 질의응답은 이어지지 않았다. 이전 시간대 대화를 재전달한 내용은 이번 요약에서 제외했다.",
+      "tags": [
+        "AI 활용",
+        "초보자 안내"
+      ],
+      "topics": [
+        {
+          "title": "영상·이미지 제작과 반복 업무",
+          "body": "AI로 해볼 수 있는 작업으로 영상·이미지 제작과 반복 업무 줄이기가 언급됐다. 구체적인 도구나 실행 절차, 적용 결과는 제시되지 않았다."
+        },
+        {
+          "title": "초보자의 질문과 경험 공유",
+          "body": "처음 배우는 사람도 궁금한 점이나 직접 사용해 본 경험을 나눌 수 있다는 안내가 있었다. 실제 질문에 대한 답변이나 추가 논의는 없었다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-19",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-18T18:00:00+09:00",
+        "end": "2026-11-19T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-19T00:00:23.633417+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "0f896f8960791dac3aa8d163630e45cc52f397ccd3d6c6b602fd9e31ed05b2f9",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-96471f9b2f7998ff81e7",
       "status": "published",
