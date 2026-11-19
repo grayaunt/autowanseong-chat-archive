@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-19T00:00:30.750938+00:00",
+  "updated_at": "2026-11-19T05:00:17.753735+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-a7a29628503adae38288",
+      "status": "published",
+      "kind": "digest",
+      "title": "점심 메뉴로 소개된 김치찌개",
+      "summary": "점심 안내에서 김치찌개가 소개됐고, 진하게 끓인 김치찌개에 대한 호응과 추워진 날씨에 어울리는 추천이라는 의견이 이어졌다. 구체적인 조리법이나 AI 활용 관련 질의응답은 없었다.",
+      "tags": [
+        "점심 메뉴",
+        "김치찌개"
+      ],
+      "topics": [
+        {
+          "title": "점심 메뉴 안내",
+          "body": "봇이 김치와 두부를 곁들인 김치찌개를 점심 메뉴로 소개했다. 구체적인 조리법은 제시되지 않았다."
+        },
+        {
+          "title": "메뉴에 대한 반응",
+          "body": "진하게 끓인 김치찌개가 맛있겠다는 반응과 추워진 날씨에 어울리는 추천이라는 의견이 나왔다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-19",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-19T09:00:00+09:00",
+        "end": "2026-11-19T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-19T05:00:12.265251+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "9539a91a976bd2699a383f1b0bf585f98c7621468b882598f84216278b9cfeb4",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-3f1301778fe5e0ab981c",
       "status": "published",
