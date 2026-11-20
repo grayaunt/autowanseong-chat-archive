@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-19T05:00:17.753735+00:00",
+  "updated_at": "2026-11-20T05:00:20.271971+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,33 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-f1b5607ed08864d3e82c",
+      "status": "published",
+      "kind": "digest",
+      "title": "공개 활용 정보가 부족한 시간대",
+      "summary": "제공된 기록에는 전날 대화 집계와 점심 안내 봇 메시지만 있습니다. 공개 활용 팁으로 정리할 실제 질의응답이나 논의는 확인되지 않습니다.",
+      "tags": [
+        "봇 안내"
+      ],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-20",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-20T09:00:00+09:00",
+        "end": "2026-11-20T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-20T05:00:14.217602+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "2e6f8c520f7bd175215da429959b8eb21dae517e9a9e3149f9d782a9bb2770d0",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-a7a29628503adae38288",
       "status": "published",
