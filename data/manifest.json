@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-21T00:00:36.087985+00:00",
+  "updated_at": "2026-11-21T05:00:25.258611+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,48 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-26d5b49612736751366c",
+      "status": "published",
+      "kind": "digest",
+      "title": "업무용 챗봇 제작 관련 영상 안내",
+      "summary": "해당 시간대에는 봇의 이전 대화 요약, 새 영상 안내, 전날 참여 통계와 점심 인사가 있었습니다. 공개 활용 주제로는 업무용 챗봇 제작 영상과 AI 요청 조건을 구체화하는 요령이 소개됐습니다. 실제 질문이나 실행 결과를 확인하는 후속 대화는 없었습니다.",
+      "tags": [
+        "업무용 챗봇",
+        "AI 요청 요령"
+      ],
+      "topics": [
+        {
+          "title": "업무용 챗봇 제작 영상 소개",
+          "body": "규정 조항까지 답하는 업무용 챗봇 제작을 다룬 AI 수업 요약 영상이 안내됐습니다. 대화에는 영상 소개만 있어 구체적인 제작 과정이나 성능은 확인할 수 없습니다."
+        },
+        {
+          "title": "이전 대화 요약에서 소개된 요청 요령",
+          "body": "봇이 게시한 이전 시간대 요약에서는 목적·날짜·수량·예산과 승인 시점을 구체적으로 적고, 완료한 일과 처리하지 못한 일을 나눠 보고하도록 요청하는 방법이 소개됐습니다. 실제 실행 결과가 아닌 예시이며, 처리 가능 여부는 연결 서비스와 상대 업체에 따라 달라진다는 설명이 포함됐습니다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "업무용 챗봇 제작 관련 AI 수업 요약 영상",
+          "url": "https://www.youtube.com/watch?v=diWl26w2EXc"
+        }
+      ],
+      "date": "2026-11-21",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-21T09:00:00+09:00",
+        "end": "2026-11-21T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-21T05:00:19.853777+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "e216fda4ff34e219fff06a454b1c501bf45ca19f3c8e42d75e1e87ea5a0e5802",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-d47f2c2c5a0c4d8ed390",
       "status": "published",
