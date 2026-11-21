@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-21T05:00:25.258611+00:00",
+  "updated_at": "2026-11-21T09:00:25.999528+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,45 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-d55da2fe4f04b3420f27",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 활용 공간 소개와 신규 참여 안내",
+      "summary": "해당 시간대에는 인사와 환영 요청, 봇의 공간 소개가 주를 이뤘습니다. AI 콘텐츠 제작과 반복 업무 줄이기가 활용 주제로 안내됐으며, 구체적인 활용 질문이나 실행 결과를 다룬 대화는 없었습니다.",
+      "tags": [
+        "AI 활용",
+        "콘텐츠 제작",
+        "업무 자동화",
+        "참여 안내"
+      ],
+      "topics": [
+        {
+          "title": "함께 나눌 AI 활용 주제",
+          "body": "환영 안내에서는 AI로 영상·이미지를 만들거나 반복 업무를 줄이는 방법을 나누는 공간으로 소개됐습니다. 이번 대화에서 구체적인 제작 절차나 자동화 방법이 설명되지는 않았습니다."
+        },
+        {
+          "title": "처음 참여할 때의 안내",
+          "body": "공지사항을 읽고 가벼운 인사를 남기도록 안내됐습니다. AI로 해보고 싶은 일이나 사용 중 막힌 점을 편하게 질문할 수 있다는 설명도 있었습니다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-21",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-21T14:00:00+09:00",
+        "end": "2026-11-21T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-21T09:00:20.605307+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "93bee013fdc13945099c5980ca8c38d270535f567485fb1da6ef1027a01d812b",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-26d5b49612736751366c",
       "status": "published",
