@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-22T00:00:35.546684+00:00",
+  "updated_at": "2026-11-22T05:00:26.239377+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,48 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-f6cc59d706b2c0b459b5",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 실무 교육 영상 안내",
+      "summary": "해당 시간대에는 봇 알림만 있으며, 실제 참여자 대화는 포함되지 않았습니다. 영수증에서 ERP로 이어지는 업무와 말로 작업을 맡기는 방식을 소개하는 AI 실무 교육 영상이 안내됐습니다. 구체적인 활용 절차나 질의응답은 확인되지 않습니다.",
+      "tags": [
+        "AI 실무 교육",
+        "업무 자동화"
+      ],
+      "topics": [
+        {
+          "title": "영수증·ERP 업무 관련 영상",
+          "body": "현장 실무자 대상 AI 수업과 영수증에서 ERP로 이어지는 업무를 다룬 공개 영상이 안내됐습니다. 입력에는 영상 안내만 있어 구체적인 사용법이나 효과를 정리하기는 어렵습니다."
+        },
+        {
+          "title": "공개 활용 팁을 추릴 대화 부족",
+          "body": "나머지 내용은 이전 대화 요약, 전날 대화 건수, 점심 알림입니다. 해당 시간대의 활용 팁이나 질문과 답변을 확인할 실제 대화는 없습니다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "AI 실무 교육 영상",
+          "url": "https://www.youtube.com/watch?v=yMXJOmG2z-g"
+        }
+      ],
+      "date": "2026-11-22",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-22T09:00:00+09:00",
+        "end": "2026-11-22T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-22T05:00:19.902115+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "fce660c8085269748ba6b4185dd832eef5a3c285d9d36a45d5b3bf0f4c5e857a",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-2cdcf7c3fae02105d609",
       "status": "published",
