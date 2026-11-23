@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-23T00:00:39.147693+00:00",
+  "updated_at": "2026-11-23T05:00:19.972165+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,54 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-3ba1714edc95f342c80e",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 자동화 요약 영상과 말로 만드는 앱 시연 안내",
+      "summary": "시간 범위 내에는 AI 자동화·핸드오프 요약 영상과, 안티그래비티에 말로 요청해 여러 앱을 만드는 라이브 안내가 공유됐습니다. 구체적인 구현 절차나 시연 결과는 포함되지 않아 활용 성과를 판단하기에는 자료가 부족합니다.",
+      "tags": [
+        "AI 자동화",
+        "핸드오프",
+        "앱 제작",
+        "라이브 시연"
+      ],
+      "topics": [
+        {
+          "title": "AI 자동화와 핸드오프 요약 영상",
+          "body": "AI에 작업을 맡기는 자동화 네 가지와 핸드오프를 다룬다는 5분 요약 영상이 안내됐습니다. 대화에는 영상의 구체적인 방법이나 적용 사례가 담겨 있지 않습니다."
+        },
+        {
+          "title": "말로 요청하는 앱 제작 시연",
+          "body": "안티그래비티에 말로 요청해 앱을 만드는 라이브가 안내됐습니다. 제작 예정 대상으로 소리에 반응하는 만화 효과음 카메라, 웹캠 기반 놀이 심판, 손가락으로 허공에 그리는 네온 칠판, 땅을 파는 게임이 제시됐습니다. 실제 구현 결과나 작동 여부는 대화에서 확인되지 않습니다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "공유된 유튜브 링크 1",
+          "url": "https://www.youtube.com/watch?v=vPqvSZZR34Q"
+        },
+        {
+          "label": "공유된 유튜브 링크 2",
+          "url": "https://youtu.be/DwYgj99E2H4"
+        }
+      ],
+      "date": "2026-11-23",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-23T09:00:00+09:00",
+        "end": "2026-11-23T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-23T05:00:15.199467+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "589a31b78437507bf562612a299946671237506a53c6df2e7a7a8eae0257ca94",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-6a445796018804a79457",
       "status": "published",
