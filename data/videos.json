@@ -3,6 +3,15 @@
   "channel_url": "https://www.youtube.com/@autowanseong",
   "videos": [
     {
+      "id": "vPqvSZZR34Q",
+      "title": "AI 수업 3회 5분 요약 | AI한테 묻지 말고 맡기는 5분 자동화 네 개와 핸드오프",
+      "kind": "영상",
+      "longform_verified": true,
+      "url": "https://www.youtube.com/watch?v=vPqvSZZR34Q",
+      "scope": "제목·공개 목록 확인",
+      "tags": "AI 수업 3회 5분 요약 | AI한테 묻지 말고 맡기는 5분 자동화 네 개와 핸드오프"
+    },
+    {
       "id": "yMXJOmG2z-g",
       "title": "현장 실무자들과 AI 수업 3회, 말로 맡기면 영수증 하나로 ERP까지 가요",
       "kind": "영상",
