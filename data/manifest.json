@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-24T00:00:40.680157+00:00",
+  "updated_at": "2026-11-24T05:00:36.237864+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,49 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-5246394d5c2874861f7e",
+      "status": "published",
+      "kind": "digest",
+      "title": "사진 기반 영상 제작 콘텐츠와 점심 메뉴 안내",
+      "summary": "사진 한 장과 말로 하는 요청을 활용한 영상 제작 콘텐츠가 소개됐다. 점심 메뉴로는 새우볶음밥이 추천됐으며, 추천에 대한 감사와 봇의 응답이 이어졌다. 구체적인 제작 방법이나 활용 결과에 관한 대화는 없었다.",
+      "tags": [
+        "영상 제작",
+        "콘텐츠 소개",
+        "점심 메뉴"
+      ],
+      "topics": [
+        {
+          "title": "사진과 말로 요청하는 영상 제작 콘텐츠",
+          "body": "플로우·하이퍼프레임을 다루는 공개 유튜브 영상이 안내됐다. 사진 한 장을 넣고 말로 요청해 영상을 만드는 내용으로 소개됐지만, 대화에는 구체적인 사용법이나 결과 검증이 포함되지 않았다."
+        },
+        {
+          "title": "점심 메뉴로 새우볶음밥 추천",
+          "body": "새우와 달걀을 활용한 새우볶음밥이 점심 메뉴로 제안됐다. 추천에 대한 감사 응답이 있었으며, 조리법이나 실제 식사 후기는 공유되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "플로우·하이퍼프레임 영상 소개",
+          "url": "https://www.youtube.com/watch?v=aL4whES-CtQ"
+        }
+      ],
+      "date": "2026-11-24",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-24T09:00:00+09:00",
+        "end": "2026-11-24T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-24T05:00:30.329142+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "7d643871a70373e8563240c58cfb2ec2a701d008b861219183208f2a458c9fbc",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-fb0b25d3229fafbcd26e",
       "status": "published",
