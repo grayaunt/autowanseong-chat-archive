@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-23T09:00:23.689179+00:00",
+  "updated_at": "2026-11-24T00:00:40.680157+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,52 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-fb0b25d3229fafbcd26e",
+      "status": "published",
+      "kind": "digest",
+      "title": "웹 음성 기능에 쓸 무료 TTS 선택지",
+      "summary": "웹에 자연스러운 음성을 붙이는 방법으로 브라우저 기본 음성, 무료 한도가 있는 음성 API, 직접 운영하는 공개 모델이 안내됐다. 웹 적용 방법에 대한 답변은 있었으나 적용 결과는 확인되지 않았다. Qwen3-TTS의 추가 정보와 영상 예시를 요청하는 후속 질문에는 답변이 없었다.",
+      "tags": [
+        "TTS",
+        "웹 개발",
+        "음성 합성",
+        "무료 도구"
+      ],
+      "topics": [
+        {
+          "title": "무료 TTS 선택지와 이용 조건",
+          "body": "봇 답변은 speechSynthesis를 별도 유료 API 없이 시작할 수 있는 방법으로 소개하면서, 음질은 기기와 브라우저에 따라 달라진다고 설명했다. ElevenLabs는 무료 사용량 제한과 상업적 이용·출처 표시 조건을 확인해야 하는 선택지로 안내됐다. Qwen3-TTS는 한국어를 지원하는 Apache 2.0 공개 모델로 소개됐으며, 직접 운영할 때는 실행 비용과 웹 연결 개발이 필요하다는 설명이 있었다."
+        },
+        {
+          "title": "웹 음성 기능 적용: 해결 확인 필요",
+          "body": "초기 구현 방법으로 speechSynthesis를 이용한 한국어 읽어주기와 음성 선택, 재생·정지 버튼 구성이 제안됐다. 실제 적용 여부나 음성의 자연스러움에 대한 후속 확인은 없었다. 함께 제시된 영상은 제목과 목록만 확인한 자료라고 명시됐다."
+        }
+      ],
+      "questions": [
+        "Qwen3-TTS의 추가 활용 정보와 공개 유튜브 예시는 무엇인가?"
+      ],
+      "links": [
+        {
+          "label": "대화에 제시된 Qwen3-TTS 관련 영상",
+          "url": "https://www.youtube.com/watch?v=9J0ZsU3uQ2s"
+        }
+      ],
+      "date": "2026-11-24",
+      "slot": "새벽",
+      "period": {
+        "start": "2026-11-23T18:00:00+09:00",
+        "end": "2026-11-24T09:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-24T00:00:33.254230+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "86001f41c25c5b0932efb2b92b45c5aa6a1fd655e5636ebc19bd57f91f1ab6c2",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-bf582b7514ee0c29d42d",
       "status": "published",
