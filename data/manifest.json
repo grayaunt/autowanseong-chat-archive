@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-25T00:00:27.484877+00:00",
+  "updated_at": "2026-11-25T05:00:30.668081+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,31 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-cdf9284bdf51665465e4",
+      "status": "published",
+      "kind": "digest",
+      "title": "11월 25일 오전 대화 기록",
+      "summary": "주어진 입력에는 이전 대화 요약, 활동 집계, 점심 안내 등 봇 메시지만 있다. 해당 시간대의 실제 질문과 답변이 없어 공개 활용 팁이나 미해결 질문을 추릴 근거가 부족하다.",
+      "tags": [],
+      "topics": [],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-25",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-25T09:00:00+09:00",
+        "end": "2026-11-25T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-25T05:00:24.460903+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "61b7e8256caeb2ce049bb5f9a892ea7b2276f6c5b354f7907943210af16c09dd",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-1dd5689bb5b904e591a6",
       "status": "published",
