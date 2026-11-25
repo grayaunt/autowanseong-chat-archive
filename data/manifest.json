@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-25T05:00:30.668081+00:00",
+  "updated_at": "2026-11-25T09:00:36.846361+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,48 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-670c7897a3970e179f41",
+      "status": "published",
+      "kind": "digest",
+      "title": "웹캠 앱 제작 영상 안내",
+      "summary": "제미나이·안티그래비티·네온을 활용한 웹캠 앱 제작 영상이 안내됐다. 입력에는 봇 메시지만 있어 실제 질의응답이나 구체적인 활용 팁을 정리할 근거는 부족하다.",
+      "tags": [
+        "웹캠 앱",
+        "영상 안내"
+      ],
+      "topics": [
+        {
+          "title": "웹캠 앱 제작 영상",
+          "body": "웹캠 앱 3개를 만드는 영상이 소개됐다. 안내 문구에는 소리를 지르면 만화 효과음이 나오는 기능이 언급됐으나, 제작 과정이나 사용 방법에 관한 대화는 없다."
+        },
+        {
+          "title": "대화 요약의 범위",
+          "body": "이전 시간대의 대화 자료가 부족하다는 봇 요약이 포함됐다. 이는 현재 시간대의 실제 질문이나 답변으로 볼 수 없어 활용 팁과 미해결 질문으로 옮기지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "웹캠 앱 제작 소개 영상",
+          "url": "https://www.youtube.com/watch?v=lBEQkNZgH5o"
+        }
+      ],
+      "date": "2026-11-25",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-25T14:00:00+09:00",
+        "end": "2026-11-25T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-25T09:00:24.732353+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "c422a41a0240f9faf1e1e1a33f20c9646fdd1b88d1b93d982aeaf607df18f579",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-cdf9284bdf51665465e4",
       "status": "published",
