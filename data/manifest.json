@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-26T00:00:38.197854+00:00",
+  "updated_at": "2026-11-26T05:00:22.025715+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-a183ef316b1aa94e36fa",
+      "status": "published",
+      "kind": "digest",
+      "title": "새 영상 안내와 대화 자료 부족",
+      "summary": "이 시간대에는 새 영상 안내와 식사 인사 등 봇 메시지만 있어 실제 질의응답이나 공개 활용 팁을 정리할 자료가 부족합니다. 영상 안내에는 도구 간 속도 비교 주장이 담겼으나, 입력만으로 검증할 수 없습니다.",
+      "tags": [
+        "영상 안내"
+      ],
+      "topics": [
+        {
+          "title": "도구 사용 비교 영상 안내",
+          "body": "제미나이 안티그래비티 관련 사용 비교 영상이 안내됐습니다. 네온이 카본보다 3배 빨랐다는 내용은 영상 제목에 담긴 주장이며, 입력에는 비교 조건이나 검증 자료가 없습니다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "안내된 공개 영상",
+          "url": "https://www.youtube.com/watch?v=pWvdLV1SJqQ"
+        }
+      ],
+      "date": "2026-11-26",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-26T09:00:00+09:00",
+        "end": "2026-11-26T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-26T05:00:17.168693+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "b5eb7cd9400cad24e2776d026aab581113f3638c3e3f5b35d09d9693676cf9a1",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-99768f628d1d408d46b9",
       "status": "published",
