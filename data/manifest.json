@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-27T05:00:40.866298+00:00",
+  "updated_at": "2026-11-27T09:00:37.177003+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-67199422e10c46bc953b",
+      "status": "published",
+      "kind": "digest",
+      "title": "개인정보 포함 내용 삭제와 민감한 내용 취급 안내",
+      "summary": "개인정보가 포함된 내용이 삭제됐다는 안내와, 민감한 내용은 개인적으로 사용하는 범위에서 진행해 달라는 요청이 있었다. 이어 안내를 이해했다는 응답이 있었다.",
+      "tags": [
+        "개인정보 보호",
+        "공개 대화 관리"
+      ],
+      "topics": [
+        {
+          "title": "개인정보 포함 내용 삭제",
+          "body": "개인정보가 포함돼 내용을 삭제했다는 안내가 있었다. 삭제된 내용의 구체적인 사항은 공개하지 않는다."
+        },
+        {
+          "title": "민감한 내용 취급 안내",
+          "body": "민감한 내용은 개인적으로 사용하는 범위에서 진행해 달라는 요청이 있었고, 이를 이해했다는 응답이 뒤따랐다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-27",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-27T14:00:00+09:00",
+        "end": "2026-11-27T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-27T09:00:31.851043+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "a650edacc47e9d5c7419027fa98b9f0a6f88476835c8aed4bc92c2acaaefeba5",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-b86b372fb6cb89cdc215",
       "status": "published",
