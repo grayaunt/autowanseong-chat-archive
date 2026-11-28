@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-28T05:00:32.616413+00:00",
+  "updated_at": "2026-11-28T09:01:34.111695+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,43 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-395b3f06ebf01ccf6ae3",
+      "status": "published",
+      "kind": "digest",
+      "title": "AI 활용 대화방 이용 안내",
+      "summary": "주어진 시간대에는 AI 활용 대화방의 참여 방법과 공지사항·지난 자료 안내가 있었다. 구체적인 활용 질문이나 기술 답변은 없어 실전 팁을 정리할 근거는 부족했다.",
+      "tags": [
+        "AI 활용",
+        "이용 안내"
+      ],
+      "topics": [
+        {
+          "title": "AI 활용 질문과 사례 공유",
+          "body": "안내에서는 영상·이미지 제작과 반복 업무 줄이기 등을 대화 주제로 소개하고, 궁금한 점이나 직접 시도한 내용을 공유하도록 권했다. 구체적인 방법이나 결과는 제시되지 않았다."
+        },
+        {
+          "title": "공지사항과 지난 자료 안내",
+          "body": "처음 참여할 때 공지사항을 읽고, 지난 대화와 자료는 아카이브에서 확인하도록 안내했다. 입력에 공개 URL은 포함되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [],
+      "date": "2026-11-28",
+      "slot": "오후",
+      "period": {
+        "start": "2026-11-28T14:00:00+09:00",
+        "end": "2026-11-28T18:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-28T09:01:26.112102+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "0fd483c467232e63a8be7641434edce7c813438dc704fd7378c6618a8fdf4233",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-a7329d617516c5ae7b1f",
       "status": "published",
