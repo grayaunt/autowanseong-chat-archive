@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "site_name": "이완성 아카이브",
-  "updated_at": "2026-11-28T00:00:29.335549+00:00",
+  "updated_at": "2026-11-28T05:00:32.616413+00:00",
   "collection_status": "active",
   "timezone": "Asia/Seoul",
   "schedule": [
@@ -11,6 +11,48 @@
     "23:00"
   ],
   "entries": [
+    {
+      "id": "digest-a7329d617516c5ae7b1f",
+      "status": "published",
+      "kind": "digest",
+      "title": "겨울철 건강관리 안내와 방송 화면 전환 도구 영상 소개",
+      "summary": "추운 날씨에 건강관리 공지를 요청하는 대화에 따라 보온, 수분 섭취, 가벼운 실내운동 등의 안내가 제공됐다. 직접 만든 버튼으로 방송 화면을 전환하는 도구를 소개한 영상 알림도 있었다.",
+      "tags": [
+        "겨울철 건강관리",
+        "방송 도구"
+      ],
+      "topics": [
+        {
+          "title": "겨울철 건강관리 안내",
+          "body": "건강관리 공지 요청에 봇이 옷을 겹쳐 입고 방한용품 챙기기, 충분한 수분 섭취와 규칙적인 식사, 틈틈이 가벼운 실내운동 하기, 실내 보온과 건조함 관리, 외출 전 체감온도 확인 등을 안내했다."
+        },
+        {
+          "title": "직접 만든 버튼으로 방송 화면 전환",
+          "body": "스트림덱을 구매하지 않고 직접 만든 버튼으로 방송 화면을 전환하는 도구를 소개한 영상이 공유됐다. 대화에는 구체적인 제작 방법이나 사용 후기는 포함되지 않았다."
+        }
+      ],
+      "questions": [],
+      "links": [
+        {
+          "label": "직접 만든 버튼으로 방송 화면을 전환하는 도구 소개 영상",
+          "url": "https://www.youtube.com/watch?v=_f9ShAaoLrI"
+        }
+      ],
+      "date": "2026-11-28",
+      "slot": "오전",
+      "period": {
+        "start": "2026-11-28T09:00:00+09:00",
+        "end": "2026-11-28T14:00:00+09:00",
+        "timezone": "Asia/Seoul"
+      },
+      "generated_at": "2026-11-28T05:00:26.174050+00:00",
+      "model": "gpt-6.1-sol",
+      "provenance": {
+        "source_sha256": "cabe41e0e7484f5c8b7b32d0420c39a685be43a6453d0fe400dabb1561da0d93",
+        "scope": "owner_room_only",
+        "review_required": false
+      }
+    },
     {
       "id": "digest-c2ecb3f07a7e5a9138a2",
       "status": "published",
